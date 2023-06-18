@@ -1,0 +1,3614 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="1">
+        <name>Wifi Groningen</name>
+        <description>Made with love, NeKotov, CC0-1.0
+
+Last updated: 2023-06-18 15:06:19</description>
+        <Placemark id="3">
+            <name>Aquamarijn</name>
+            <description>Password: wimpel2003
+Last connected at: 2015-07-03 02:00:00
+Last seen at: 2023-06-03 02:00:00
+Connections count: 1</description>
+            <Point id="2">
+                <coordinates>6.505867,53.23104,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="5">
+            <name>mycloud</name>
+            <description>
+Last connected at: 2019-04-19 16:35:34
+Last seen at: 2023-05-30 02:00:00
+Connections count: 8</description>
+            <Point id="4">
+                <coordinates>6.557645,53.207756,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="7">
+            <name>Tweede Etage</name>
+            <description>Password: kentalis
+Last connected at: 2016-03-25 01:00:00
+Last seen at: 2022-01-17 01:00:00
+Connections count: 1</description>
+            <Point id="6">
+                <coordinates>6.554257,53.22826,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="9">
+            <name>Ziggo93016</name>
+            <description>Password: moker1991
+Last connected at: 2014-07-28 02:00:00
+Last seen at: 2022-04-10 02:00:00
+Connections count: 1</description>
+            <Point id="8">
+                <coordinates>6.537005,53.22998,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="11">
+            <name>Torghatten</name>
+            <description>Password: boutstra25april
+Download speed: 29.8183
+Upload speed: 15.406
+Ping time: 13.0
+Last connected at: 2022-07-02 02:00:00
+Last seen at: 2023-05-06 02:00:00
+Connections count: 4</description>
+            <Point id="10">
+                <coordinates>6.562129,53.22889,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="13">
+            <name>Qbuzz-Gast</name>
+            <description>
+Last connected at: 2022-05-18 14:58:58
+Last seen at: 2022-12-11 00:00:00
+Connections count: 4</description>
+            <Point id="12">
+                <coordinates>6.54592,53.208849,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="15">
+            <name>Tuinland Wifi</name>
+            <description>
+Download speed: 47.2766
+Upload speed: 4.5568385
+Ping time: 16.0
+Last connected at: 2023-05-31 02:00:00
+Last seen at: 2023-06-05 02:00:00
+Connections count: 14</description>
+            <Point id="14">
+                <coordinates>6.540596,53.209475,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="17">
+            <name>Deco_0578</name>
+            <description>
+Last connected at: 2021-12-30 01:00:00
+Last seen at: 2023-06-18 02:00:00
+Connections count: 1</description>
+            <Point id="16">
+                <coordinates>6.545736,53.228063,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="19">
+            <name>Ziggo8964039</name>
+            <description>Password: Sd4wzqhtzXhg
+Last connected at: 2022-12-03 21:43:46
+Last seen at: 2022-12-03 21:43:46
+Connections count: 3</description>
+            <Point id="18">
+                <coordinates>6.558202,53.208309,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="21">
+            <name>Ziggo</name>
+            <description>Password: draadloos
+Last connected at: 2023-06-16 00:12:09
+Last seen at: 2023-06-16 00:12:09
+Connections count: 497</description>
+            <Point id="20">
+                <coordinates>6.559764,53.21492,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="23">
+            <name>QbuzzWIFI</name>
+            <description>
+Last connected at: 2022-12-15 16:13:07
+Last seen at: 2023-06-14 16:00:00
+Connections count: 163</description>
+            <Point id="22">
+                <coordinates>6.561946,53.211604,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="25">
+            <name>Ziggo</name>
+            <description>Password: lmqilonxjnrakdz
+Last connected at: 2022-06-10 14:09:58
+Last seen at: 2023-05-25 17:00:00
+Connections count: 15</description>
+            <Point id="24">
+                <coordinates>6.548677,53.21288,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="27">
+            <name>Groninger Archieven Gast</name>
+            <description>Password: bezoeker
+Download speed: 103.016
+Upload speed: 68.6606
+Ping time: 5.0
+Last connected at: 2019-06-07 10:22:49
+Last seen at: 2023-05-06 02:00:00
+Connections count: 3</description>
+            <Point id="26">
+                <coordinates>6.560998,53.211739,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="29">
+            <name>McDonald's free Wifi</name>
+            <description>
+Download speed: 1.04835
+Upload speed: 0.694678
+Ping time: 172.0
+Last connected at: 2020-08-16 16:24:52
+Last seen at: 2023-05-21 23:00:00
+Connections count: 38</description>
+            <Point id="28">
+                <coordinates>6.541536,53.213589,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="31">
+            <name>ANWB-rijopleiding-gasten</name>
+            <description>Password: Inter2014!
+Last connected at: 2016-09-29 02:00:00
+Last seen at: 2023-05-19 02:00:00
+Connections count: 1</description>
+            <Point id="30">
+                <coordinates>6.538968,53.2145,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="33">
+            <name>sedn</name>
+            <description>Password: hoendiep
+Download speed: 5.41588
+Upload speed: 5.61563
+Ping time: 24.0
+Last connected at: 2022-09-15 02:00:00
+Last seen at: 2023-06-04 02:00:00
+Connections count: 21</description>
+            <Point id="32">
+                <coordinates>6.549197,53.214947,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="35">
+            <name>TP-LINK_7E1660</name>
+            <description>
+Last connected at: 2013-11-19 01:00:00
+Last seen at: 2023-03-27 18:00:00
+Connections count: 1</description>
+            <Point id="34">
+                <coordinates>6.561671,53.215885,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="37">
+            <name>Pizzeria Napoli</name>
+            <description>
+Download speed: 9.40544
+Upload speed: 2.18627
+Ping time: 16.0
+Last connected at: 2018-12-16 18:39:29
+Last seen at: 2023-05-22 13:00:00
+Connections count: 21</description>
+            <Point id="36">
+                <coordinates>6.558511,53.21667,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="39">
+            <name>KPN</name>
+            <description>Password: pizdachin
+Last connected at: 2019-09-24 08:24:44
+Last seen at: 2023-03-27 18:00:00
+Connections count: 59</description>
+            <Point id="38">
+                <coordinates>6.557637,53.214391,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="41">
+            <name>De Sigaar</name>
+            <description>
+Download speed: 7.42366
+Upload speed: 6.47122
+Ping time: 16.0
+Last connected at: 2019-04-12 20:30:58
+Last seen at: 2022-04-20 02:00:00
+Connections count: 54</description>
+            <Point id="40">
+                <coordinates>6.559483,53.21686,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="43">
+            <name>Woldring Verhuur Aweg</name>
+            <description>Password: HBIBW-A11A
+Last connected at: 2018-08-27 11:15:21
+Last seen at: 2023-05-22 13:00:00
+Connections count: 68</description>
+            <Point id="42">
+                <coordinates>6.556608,53.21606,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="45">
+            <name>Ziggo</name>
+            <description>Password: wikspgkjnacchru
+Download speed: 8.45919
+Upload speed: 1.82097
+Ping time: 28.0
+Last connected at: 2022-11-16 01:00:00
+Last seen at: 2023-06-03 21:00:00
+Connections count: 133</description>
+            <Point id="44">
+                <coordinates>6.562368,53.22734,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="47">
+            <name>E9371B78F5</name>
+            <description>
+Last connected at: 2019-01-10 09:57:58
+Last seen at: 2022-08-05 19:00:00
+Connections count: 10</description>
+            <Point id="46">
+                <coordinates>6.553463,53.233518,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="49">
+            <name>kentalis-gast-aanmelden</name>
+            <description>
+Last connected at: 2016-04-04 02:00:00
+Last seen at: 2023-06-10 02:00:00
+Connections count: 1</description>
+            <Point id="48">
+                <coordinates>6.554297,53.22824,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="51">
+            <name>ZiggoCA53412</name>
+            <description>
+Download speed: 59.9631
+Upload speed: 10.4872
+Ping time: 16.0
+Last connected at: 2017-10-21 16:22:20
+Last seen at: 2023-04-08 18:00:00
+Connections count: 25</description>
+            <Point id="50">
+                <coordinates>6.542419,53.22993,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="53">
+            <name>De Parrel Hotspot</name>
+            <description>
+Last connected at: 2018-05-24 19:10:34
+Last seen at: 2023-03-14 01:00:00
+Connections count: 34</description>
+            <Point id="52">
+                <coordinates>6.548146,53.231628,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="55">
+            <name>KPN</name>
+            <description>
+Last connected at: 2019-09-20 16:45:07
+Last seen at: 2023-05-30 09:00:00
+Connections count: 41</description>
+            <Point id="54">
+                <coordinates>6.544677,53.229308,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="57">
+            <name>Hotspot Paddepoel</name>
+            <description>
+Download speed: 0.655688
+Upload speed: 0.56872
+Ping time: 38.0
+Last connected at: 2023-06-15 02:00:00
+Last seen at: 2023-06-15 02:00:00
+Connections count: 161</description>
+            <Point id="56">
+                <coordinates>6.543796,53.22998,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="59">
+            <name>NETGEAR41</name>
+            <description>Password: purpleviolin256
+Last connected at: 2022-10-21 02:00:00
+Last seen at: 2022-10-21 02:00:00
+Connections count: 61</description>
+            <Point id="58">
+                <coordinates>6.557077,53.228301,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="61">
+            <name>BPPaddepoelGasten</name>
+            <description>
+Last connected at: 2022-04-24 04:47:32
+Last seen at: 2022-04-24 04:47:32
+Connections count: 20</description>
+            <Point id="60">
+                <coordinates>6.545218,53.2292,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="63">
+            <name>GSG WPA2</name>
+            <description>Password: halloikbengerda
+Last connected at: 2022-11-04 12:02:54
+Last seen at: 2023-03-14 09:00:00
+Connections count: 42</description>
+            <Point id="62">
+                <coordinates>6.555468,53.23126,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="65">
+            <name>Event-Wifi</name>
+            <description>
+Download speed: 2.13545
+Upload speed: 0.974147
+Ping time: 126.0
+Last connected at: 2018-10-25 08:37:52
+Last seen at: 2022-10-20 02:00:00
+Connections count: 5</description>
+            <Point id="64">
+                <coordinates>6.528277,53.230593,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="67">
+            <name>H368NOE31A8</name>
+            <description>Password: 55D536FCC59F
+Last connected at: 2021-10-22 13:58:27
+Last seen at: 2022-06-13 02:00:00
+Connections count: 6</description>
+            <Point id="66">
+                <coordinates>6.54147,53.226611,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="69">
+            <name>MonkeyTown-Gast</name>
+            <description>
+Last connected at: 2018-10-07 15:05:10
+Last seen at: 2022-09-05 14:00:00
+Connections count: 2</description>
+            <Point id="68">
+                <coordinates>6.547684,53.209585,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="71">
+            <name>Rebel Rebel Hostel</name>
+            <description>Password: iamrebel
+Last connected at: 2023-06-06 21:28:31
+Last seen at: 2023-06-06 21:28:31
+Connections count: 3</description>
+            <Point id="70">
+                <coordinates>6.537754,53.211223,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="73">
+            <name>WLG Gasten</name>
+            <description>
+Last connected at: 2017-10-19 12:03:47
+Last seen at: 2022-11-30 01:00:00
+Connections count: 16</description>
+            <Point id="72">
+                <coordinates>6.550394,53.208896,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="75">
+            <name>Bij Britta</name>
+            <description>Password: bijbritta
+Last connected at: 2014-10-11 02:00:00
+Last seen at: 2022-04-06 02:00:00
+Connections count: 1</description>
+            <Point id="74">
+                <coordinates>6.561872,53.21896,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="77">
+            <name>O2G2</name>
+            <description>Password: QsB8zhx4
+Download speed: 0.813039
+Upload speed: 1.72144
+Ping time: 24.0
+Last connected at: 2022-03-23 09:18:53
+Last seen at: 2022-03-29 02:00:00
+Connections count: 1455</description>
+            <Point id="76">
+                <coordinates>6.53041,53.22102,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="79">
+            <name>Pintelier- Guest</name>
+            <description>Password: anno1997
+Download speed: 417.11136
+Upload speed: 44.933617
+Ping time: 12.0
+Last connected at: 2023-05-25 19:30:44
+Last seen at: 2023-05-25 19:30:44
+Connections count: 4</description>
+            <Point id="78">
+                <coordinates>6.561735,53.218506,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="81">
+            <name>Cisco66653</name>
+            <description>
+Last connected at: 2016-04-21 02:00:00
+Last seen at: 2022-05-06 02:00:00
+Connections count: 1</description>
+            <Point id="80">
+                <coordinates>6.51827,53.223096,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="83">
+            <name>UurWerkerGast</name>
+            <description>Password: heineken
+Download speed: 8.1228695
+Upload speed: 16.37612
+Ping time: 159.0
+Last connected at: 2023-03-15 01:00:00
+Last seen at: 2023-05-25 02:00:00
+Connections count: 19</description>
+            <Point id="82">
+                <coordinates>6.56168,53.218713,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="85">
+            <name> FREE WIFI</name>
+            <description>
+Download speed: 1.432306
+Upload speed: 0.7020739
+Ping time: 18.0
+Last connected at: 2023-04-11 11:30:33
+Last seen at: 2023-05-02 16:00:00
+Connections count: 2</description>
+            <Point id="84">
+                <coordinates>6.56217,53.219144,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="87">
+            <name>Laca Groningen</name>
+            <description>Password: ReviewusonF&amp;I19
+Last connected at: 2022-06-04 02:00:00
+Last seen at: 2023-05-02 16:00:00
+Connections count: 180</description>
+            <Point id="86">
+                <coordinates>6.562211,53.218852,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="89">
+            <name>no25</name>
+            <description>Password: no25wifi
+Last connected at: 2018-07-22 16:03:11
+Last seen at: 2023-04-20 02:00:00
+Connections count: 3</description>
+            <Point id="88">
+                <coordinates>6.562302,53.219033,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="91">
+            <name>De Sleutel</name>
+            <description>
+Last connected at: 2019-01-15 16:46:34
+Last seen at: 2022-09-09 02:00:00
+Connections count: 19</description>
+            <Point id="90">
+                <coordinates>6.557198,53.219139,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="93">
+            <name>12</name>
+            <description>Password: 123456aa
+Download speed: 23.215853
+Upload speed: 22.467062
+Ping time: 42.0
+Last connected at: 2022-11-15 01:00:00
+Last seen at: 2022-11-15 01:00:00
+Connections count: 11</description>
+            <Point id="92">
+                <coordinates>6.526501,53.225036,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="95">
+            <name>Paddepoel intern</name>
+            <description>
+Download speed: 0.655688
+Upload speed: 0.56872
+Ping time: 38.0
+Last connected at: 2019-09-28 09:46:23
+Last seen at: 2023-06-11 22:00:00
+Connections count: 155</description>
+            <Point id="94">
+                <coordinates>6.543796,53.229982,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="97">
+            <name>NETGEAR</name>
+            <description>Password: FACKJULLIEALLEMAALFLIKKERS
+Last connected at: 2014-08-24 02:00:00
+Last seen at: 2022-12-11 01:00:00
+Connections count: 1</description>
+            <Point id="96">
+                <coordinates>6.529817,53.22367,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="99">
+            <name>H369A0A0501</name>
+            <description>Password: 3C747635EDEE
+Last connected at: 2022-01-21 01:00:00
+Last seen at: 2022-01-21 01:00:00
+Connections count: 120</description>
+            <Point id="98">
+                <coordinates>6.525206,53.225656,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="101">
+            <name>E9371B78F5</name>
+            <description>
+Last connected at: 2019-04-30 13:57:39
+Last seen at: 2022-03-04 01:00:00
+Connections count: 20</description>
+            <Point id="100">
+                <coordinates>6.528392,53.22519,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="103">
+            <name>Martiniplaza</name>
+            <description>Password: martiniplaza
+Download speed: 4.14188
+Upload speed: 2.103
+Ping time: 20.0
+Last connected at: 2022-12-30 20:45:20
+Last seen at: 2023-05-30 16:00:00
+Connections count: 10</description>
+            <Point id="102">
+                <coordinates>6.55521,53.202878,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="105">
+            <name>Suite23</name>
+            <description>Password: iwantinternet
+Download speed: 4.67733
+Upload speed: 0.878425
+Ping time: 22.0
+Last connected at: 2019-04-20 18:19:14
+Last seen at: 2023-04-16 02:00:00
+Connections count: 7</description>
+            <Point id="104">
+                <coordinates>6.54884,53.189571,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="107">
+            <name>Kaap Hoorn Management</name>
+            <description>
+Last connected at: 2019-05-11 15:08:08
+Last seen at: 2023-06-17 02:00:00
+Connections count: 9</description>
+            <Point id="106">
+                <coordinates>6.555544,53.17931,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="109">
+            <name>KPN</name>
+            <description>Password: martiniplaza
+Last connected at: 2022-06-28 02:00:00
+Last seen at: 2022-06-28 02:00:00
+Connections count: 34</description>
+            <Point id="108">
+                <coordinates>6.554232,53.202928,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="111">
+            <name>Van der Valk Hoogkerk</name>
+            <description>
+Last connected at: 2023-03-09 01:00:00
+Last seen at: 2023-03-09 01:00:00
+Connections count: 15</description>
+            <Point id="110">
+                <coordinates>6.516539,53.197312,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="113">
+            <name>TUINCAFE</name>
+            <description>
+Last connected at: 2017-07-01 14:43:03
+Last seen at: 2022-03-18 01:00:00
+Connections count: 7</description>
+            <Point id="112">
+                <coordinates>6.56086,53.190872,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="115">
+            <name>Telemetry</name>
+            <description>
+Download speed: 4.45519
+Upload speed: 0.633683
+Ping time: 204.0
+Last connected at: 2017-11-27 08:04:44
+Last seen at: 2022-09-13 02:00:00
+Connections count: 349</description>
+            <Point id="114">
+                <coordinates>6.54805,53.191224,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="117">
+            <name>MZH-GAST</name>
+            <description>
+Download speed: 9.114341
+Upload speed: 9.843469
+Ping time: 12.0
+Last connected at: 2023-06-17 02:00:00
+Last seen at: 2023-06-17 02:00:00
+Connections count: 1740</description>
+            <Point id="116">
+                <coordinates>6.550453,53.192674,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="119">
+            <name>Apollo Hotel</name>
+            <description>
+Download speed: 31.148405
+Upload speed: 39.624886
+Ping time: 28.0
+Last connected at: 2021-11-20 16:02:06
+Last seen at: 2022-11-10 18:00:00
+Connections count: 1</description>
+            <Point id="118">
+                <coordinates>6.555023,53.200299,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="121">
+            <name>Ziggo</name>
+            <description>Password: pkrerkbixxmwmpy
+Last connected at: 2022-09-20 02:00:00
+Last seen at: 2023-05-30 02:00:00
+Connections count: 19</description>
+            <Point id="120">
+                <coordinates>6.556489,53.190526,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="123">
+            <name>mycloud</name>
+            <description>
+Last connected at: 2022-11-28 18:20:08
+Last seen at: 2023-06-17 15:00:00
+Connections count: 10</description>
+            <Point id="122">
+                <coordinates>6.550078,53.199692,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="125">
+            <name>Leonardo</name>
+            <description>
+Download speed: 22.796547
+Upload speed: 41.143093
+Ping time: 27.0
+Last connected at: 2022-12-16 01:00:00
+Last seen at: 2022-12-16 01:00:00
+Connections count: 8</description>
+            <Point id="124">
+                <coordinates>6.549404,53.19953,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="127">
+            <name>Kardinge Hotspot</name>
+            <description>
+Last connected at: 2022-11-26 01:00:00
+Last seen at: 2023-06-11 02:00:00
+Connections count: 13</description>
+            <Point id="126">
+                <coordinates>6.550226,53.199643,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="129">
+            <name>Ziggo27.a</name>
+            <description>Password: c7729bd962
+Download speed: 35.9328
+Upload speed: 4.89192
+Ping time: 20.0
+Last connected at: 2018-03-26 08:50:54
+Last seen at: 2022-08-31 02:00:00
+Connections count: 38</description>
+            <Point id="128">
+                <coordinates>6.556098,53.167309,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="131">
+            <name>Scandinavisch Dorp Gasten</name>
+            <description>
+Last connected at: 2022-05-08 02:00:00
+Last seen at: 2022-08-31 02:00:00
+Connections count: 88</description>
+            <Point id="130">
+                <coordinates>6.554713,53.169186,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="133">
+            <name>Sitecom01</name>
+            <description>Password: wanda_is_een_lievehond
+Download speed: 27.9031
+Upload speed: 14.4519
+Ping time: 18.0
+Last connected at: 2018-09-27 21:36:16
+Last seen at: 2023-05-14 02:00:00
+Connections count: 17275</description>
+            <Point id="132">
+                <coordinates>6.51477,53.20383,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="135">
+            <name>ZGG-Devices</name>
+            <description>
+Last connected at: 2019-09-07 14:42:13
+Last seen at: 2023-02-14 01:00:00
+Connections count: 49</description>
+            <Point id="134">
+                <coordinates>6.560426,53.191954,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="137">
+            <name>CenturyFreeInternet</name>
+            <description>
+Last connected at: 2018-04-17 20:25:59
+Last seen at: 2023-05-30 15:00:00
+Connections count: 16</description>
+            <Point id="136">
+                <coordinates>6.5581,53.203779,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="139">
+            <name>Brinkhof</name>
+            <description>
+Last connected at: 2018-01-09 10:46:14
+Last seen at: 2023-06-06 02:00:00
+Connections count: 6</description>
+            <Point id="138">
+                <coordinates>6.46145,53.066798,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="141">
+            <name>Ziggo2AB4C</name>
+            <description>Password: andersthuis
+Download speed: 39.5281
+Upload speed: 4.27033
+Ping time: 15.0
+Last connected at: 2019-10-23 20:51:01
+Last seen at: 2022-07-05 02:00:00
+Connections count: 5</description>
+            <Point id="140">
+                <coordinates>6.449151,53.066292,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="143">
+            <name>Wapen van Norg - Gasten 2.4 GHz</name>
+            <description>Password: WapenNorg
+Last connected at: 2023-05-20 02:00:00
+Last seen at: 2023-05-20 02:00:00
+Connections count: 49</description>
+            <Point id="142">
+                <coordinates>6.460971,53.066495,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="145">
+            <name>Pineapple</name>
+            <description>Password: boelens
+Download speed: 2.03859
+Upload speed: 28.008
+Ping time: 12.0
+Last connected at: 2023-06-10 14:38:21
+Last seen at: 2023-06-10 14:38:21
+Connections count: 647</description>
+            <Point id="144">
+                <coordinates>6.453509,53.066353,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="147">
+            <name>eminent (i was here)beveiliging?</name>
+            <description>
+Download speed: 4.95963
+Upload speed: 14.3039
+Ping time: 28.0
+Last connected at: 2022-08-26 02:00:00
+Last seen at: 2022-08-26 02:00:00
+Connections count: 154</description>
+            <Point id="146">
+                <coordinates>6.686838,53.09519,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="149">
+            <name>FRITZ!Box 7581 RP</name>
+            <description>Password: 67401594181192914276
+Download speed: 69.9819
+Upload speed: 111.492
+Ping time: 15.0
+Last connected at: 2022-01-04 01:00:00
+Last seen at: 2023-06-15 02:00:00
+Connections count: 59</description>
+            <Point id="148">
+                <coordinates>6.70076,53.075582,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="151">
+            <name>COFFEA-BAR-FREE</name>
+            <description>
+Last connected at: 2018-10-16 16:18:29
+Last seen at: 2022-08-01 02:00:00
+Connections count: 26</description>
+            <Point id="150">
+                <coordinates>6.68454,53.092762,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="153">
+            <name>Snackerie de Pieper Gast</name>
+            <description>Password: depieper
+Last connected at: 2019-02-17 19:45:31
+Last seen at: 2022-03-29 02:00:00
+Connections count: 1</description>
+            <Point id="152">
+                <coordinates>6.678824,53.091923,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="155">
+            <name>BakkerijFeenstra&amp;Fenomini</name>
+            <description>Password: zuidlaarderbol
+Download speed: 0.379622
+Upload speed: 0.478057
+Ping time: 15.0
+Last connected at: 2022-09-12 17:06:36
+Last seen at: 2022-09-12 17:06:36
+Connections count: 20</description>
+            <Point id="154">
+                <coordinates>6.683525,53.092365,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="157">
+            <name>Jumbo-HotSpot</name>
+            <description>
+Last connected at: 2022-03-19 01:00:00
+Last seen at: 2022-05-17 02:00:00
+Connections count: 44</description>
+            <Point id="156">
+                <coordinates>6.685421,53.0933,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="159">
+            <name>SaporiLaFiera-FREE</name>
+            <description>
+Download speed: 7.11813
+Upload speed: 1.06698
+Ping time: 29.0
+Last connected at: 2022-08-25 02:00:00
+Last seen at: 2023-04-02 02:00:00
+Connections count: 749</description>
+            <Point id="158">
+                <coordinates>6.68464,53.093362,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="161">
+            <name>Albert Heijn</name>
+            <description>
+Download speed: 8.7414875
+Upload speed: 4.915428
+Ping time: 6.0
+Last connected at: 2023-05-03 17:49:01
+Last seen at: 2023-05-03 17:49:01
+Connections count: 3</description>
+            <Point id="160">
+                <coordinates>6.690237,53.093008,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="163">
+            <name>BenR</name>
+            <description>Password: kalaldlls
+Download speed: 77.7346
+Upload speed: 179.991
+Ping time: 13.0
+Last connected at: 2019-08-07 14:02:34
+Last seen at: 2023-05-28 02:00:00
+Connections count: 11</description>
+            <Point id="162">
+                <coordinates>6.681344,53.092583,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="165">
+            <name>GCZ</name>
+            <description>Password: grandcafe
+Last connected at: 2019-12-14 01:00:00
+Last seen at: 2023-06-16 02:00:00
+Connections count: 1</description>
+            <Point id="164">
+                <coordinates>6.686933,53.094894,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="167">
+            <name>AnneFrank</name>
+            <description>Password: Welkom12
+Last connected at: 2017-05-26 02:00:00
+Last seen at: 2023-05-02 02:00:00
+Connections count: 1</description>
+            <Point id="166">
+                <coordinates>6.502554,53.20573,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="169">
+            <name>Ziggo5474647</name>
+            <description>Password: z6ksXjdhnnme
+Download speed: 0.23785412
+Upload speed: 1.2021132
+Ping time: 128.0
+Last connected at: 2022-12-31 01:00:00
+Last seen at: 2022-12-31 01:00:00
+Connections count: 8</description>
+            <Point id="168">
+                <coordinates>6.501195,53.205872,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="171">
+            <name>Zwaneveld Gasten</name>
+            <description>Password: welkominnorg 
+Download speed: 7.193747
+Upload speed: 20.317646
+Ping time: 37.0
+Last connected at: 2023-05-18 13:12:04
+Last seen at: 2023-05-18 13:12:04
+Connections count: 9</description>
+            <Point id="170">
+                <coordinates>6.465111,53.067312,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="173">
+            <name>Maallust gast</name>
+            <description>Password: zwarejongen
+Download speed: 103.47768
+Upload speed: 37.948864
+Ping time: 17.0
+Last connected at: 2019-12-14 15:55:43
+Last seen at: 2022-02-20 01:00:00
+Connections count: 1</description>
+            <Point id="172">
+                <coordinates>6.387583,53.03329,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="175">
+            <name>BitterenZoet</name>
+            <description>Password: Sweets4mySweet
+Last connected at: 2023-06-17 02:00:00
+Last seen at: 2023-06-17 02:00:00
+Connections count: 29</description>
+            <Point id="174">
+                <coordinates>6.393713,53.0438,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="177">
+            <name>Museum Zalen</name>
+            <description>Password: Boevenbus
+Last connected at: 2023-06-06 20:11:42
+Last seen at: 2023-06-06 20:11:42
+Connections count: 14</description>
+            <Point id="176">
+                <coordinates>6.389934,53.040902,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="179">
+            <name>QbuzzWIFI</name>
+            <description>
+Last connected at: 2018-05-16 14:51:30
+Last seen at: 2023-05-30 02:00:00
+Connections count: 6</description>
+            <Point id="178">
+                <coordinates>6.430791,53.195029,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="181">
+            <name>Wifi Open</name>
+            <description>
+Download speed: 0.8018679
+Ping time: 31.0
+Last connected at: 2022-01-12 01:00:00
+Last seen at: 2022-11-17 01:00:00
+Connections count: 2</description>
+            <Point id="180">
+                <coordinates>6.422356,53.1764,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="183">
+            <name>Intholt1654-Gasten</name>
+            <description>Password: intholt1654
+Last connected at: 2021-05-22 02:00:00
+Last seen at: 2022-05-18 02:00:00
+Connections count: 1</description>
+            <Point id="182">
+                <coordinates>6.408641,53.243234,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="185">
+            <name>FamilieOsman</name>
+            <description>Password: cleverlotus828
+Last connected at: 2021-07-11 00:21:06
+Last seen at: 2021-07-11 00:21:06
+Connections count: 1</description>
+            <Point id="184">
+                <coordinates>6.696884,53.278067,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="187">
+            <name>Qbuzz-Public</name>
+            <description>
+Download speed: 0.95753086
+Upload speed: 1.998342
+Ping time: 102.0
+Last connected at: 2022-07-07 12:55:17
+Last seen at: 2022-07-07 12:55:17
+Connections count: 5</description>
+            <Point id="186">
+                <coordinates>6.404985,53.134189,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="189">
+            <name>H369A3D6857</name>
+            <description>Password: Krijgjeniet
+Download speed: 92.97825
+Upload speed: 79.20874
+Ping time: 10.0
+Last connected at: 2023-06-17 02:00:00
+Last seen at: 2023-06-17 02:00:00
+Connections count: 1329</description>
+            <Point id="188">
+                <coordinates>6.395272,53.133382,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="191">
+            <name>Werkpro Bezoekers</name>
+            <description>Password: WerkproHoogezand
+Last connected at: 2020-02-21 19:45:40
+Last seen at: 2022-09-13 02:00:00
+Connections count: 1</description>
+            <Point id="190">
+                <coordinates>6.755304,53.152716,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="193">
+            <name>Woonboerderij Casa</name>
+            <description>Password: Woldweg63!
+Last connected at: 2023-01-06 20:35:46
+Last seen at: 2023-01-06 20:35:46
+Connections count: 5</description>
+            <Point id="192">
+                <coordinates>6.723716,53.153282,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="195">
+            <name>ZINN gasten</name>
+            <description>
+Last connected at: 2018-11-25 13:00:08
+Last seen at: 2022-04-27 02:00:00
+Connections count: 45</description>
+            <Point id="194">
+                <coordinates>6.753846,53.148608,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="197">
+            <name>Allround Watersport</name>
+            <description>
+Last connected at: 2013-11-19 01:00:00
+Last seen at: 2023-04-28 02:00:00
+Connections count: 1</description>
+            <Point id="196">
+                <coordinates>6.741229,53.149078,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="199">
+            <name>Ziggo1808337</name>
+            <description>Password: gerben/anneke
+Download speed: 282.39227
+Upload speed: 35.454468
+Ping time: 17.0
+Last connected at: 2023-06-17 16:14:08
+Last seen at: 2023-06-17 16:14:08
+Connections count: 43</description>
+            <Point id="198">
+                <coordinates>6.754771,53.149217,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="201">
+            <name>Ziggo76507</name>
+            <description>Password: cTKmWRc7+s7H
+Download speed: 47.8457
+Upload speed: 9.80704
+Ping time: 19.0
+Last connected at: 2020-02-12 02:31:25
+Last seen at: 2022-10-25 02:00:00
+Connections count: 105</description>
+            <Point id="200">
+                <coordinates>6.743093,53.155949,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="203">
+            <name>bosma</name>
+            <description>Password: jobonkids
+Last connected at: 2016-07-02 02:00:00
+Last seen at: 2023-03-24 01:00:00
+Connections count: 1</description>
+            <Point id="202">
+                <coordinates>6.742671,53.147828,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="205">
+            <name>EdimaxAPb6</name>
+            <description>
+Last connected at: 2017-07-18 11:54:48
+Last seen at: 2022-11-08 01:00:00
+Connections count: 30</description>
+            <Point id="204">
+                <coordinates>6.622119,53.07613,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="207">
+            <name>hwhz</name>
+            <description>
+Last connected at: 2018-08-04 17:39:30
+Last seen at: 2023-05-27 02:00:00
+Connections count: 10</description>
+            <Point id="206">
+                <coordinates>6.64824,53.068901,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="209">
+            <name>V.V. Actief FreeWiFi</name>
+            <description>
+Last connected at: 2018-09-29 13:52:02
+Last seen at: 2022-12-19 01:00:00
+Connections count: 3</description>
+            <Point id="208">
+                <coordinates>6.572368,53.141855,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="211">
+            <name>Free WiFi Haarstudio Mooi</name>
+            <description>
+Download speed: 52.021435
+Upload speed: 8.018307
+Ping time: 31.0
+Last connected at: 2023-05-27 02:00:00
+Last seen at: 2023-05-27 02:00:00
+Connections count: 4</description>
+            <Point id="210">
+                <coordinates>6.565237,53.142908,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="213">
+            <name>gaecatering</name>
+            <description>Password: bites&amp;flights
+Download speed: 53.6254
+Upload speed: 35.4165
+Ping time: 32.0
+Last connected at: 2023-03-13 01:00:00
+Last seen at: 2023-03-13 01:00:00
+Connections count: 6</description>
+            <Point id="212">
+                <coordinates>6.586973,53.12919,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="215">
+            <name>KPN</name>
+            <description>
+Last connected at: 2019-10-15 09:30:28
+Last seen at: 2023-04-20 02:00:00
+Connections count: 19</description>
+            <Point id="214">
+                <coordinates>6.602685,53.150223,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="217">
+            <name>KPN</name>
+            <description>
+Last connected at: 2019-09-14 07:31:18
+Last seen at: 2023-04-23 02:00:00
+Connections count: 15</description>
+            <Point id="216">
+                <coordinates>6.606245,53.141404,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="219">
+            <name>Entree</name>
+            <description>Password: oudesnik
+Last connected at: 2023-05-26 18:03:19
+Last seen at: 2023-05-26 18:03:19
+Connections count: 30</description>
+            <Point id="218">
+                <coordinates>6.603487,53.1173,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="221">
+            <name>TUVO</name>
+            <description>Password: 1234tuvo
+Last connected at: 2017-09-05 15:08:11
+Last seen at: 2023-03-02 01:00:00
+Connections count: 101</description>
+            <Point id="220">
+                <coordinates>6.599532,53.124437,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="223">
+            <name>KPN</name>
+            <description>Password: mathijsnietdoen1123
+Last connected at: 2019-04-25 08:32:39
+Last seen at: 2022-11-20 01:00:00
+Connections count: 53</description>
+            <Point id="222">
+                <coordinates>6.698532,53.196277,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="225">
+            <name>H368N88D976</name>
+            <description>Password: DEF742E99F2C
+Last connected at: 2023-05-19 01:19:08
+Last seen at: 2023-05-25 02:00:00
+Connections count: 18</description>
+            <Point id="224">
+                <coordinates>6.56147,53.136929,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="227">
+            <name>Kinds</name>
+            <description>Password: kinds123
+Download speed: 80.2032
+Upload speed: 37.5134
+Ping time: 19.0
+Last connected at: 2023-01-04 01:00:00
+Last seen at: 2023-04-23 02:00:00
+Connections count: 3</description>
+            <Point id="226">
+                <coordinates>6.628767,52.993835,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="229">
+            <name>VGV7519BD70C8</name>
+            <description>Password: YSxF8h48rL3g
+Last connected at: 2022-05-09 02:00:00
+Last seen at: 2022-05-09 02:00:00
+Connections count: 4</description>
+            <Point id="228">
+                <coordinates>6.652729,52.98534,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="231">
+            <name>PLUS-WIFI</name>
+            <description>
+Last connected at: 2018-07-09 14:07:51
+Last seen at: 2022-08-09 15:00:00
+Connections count: 3</description>
+            <Point id="230">
+                <coordinates>6.648851,52.985943,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="233">
+            <name>Ziggo51227</name>
+            <description>Password: VeZprEm99
+Download speed: 13.2592
+Upload speed: 4.83793
+Ping time: 23.0
+Last connected at: 2022-05-19 19:24:55
+Last seen at: 2022-05-19 19:24:55
+Connections count: 1439</description>
+            <Point id="232">
+                <coordinates>6.650901,52.986852,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="235">
+            <name>KPN</name>
+            <description>Password: qwertyuiop
+Last connected at: 2022-08-05 14:50:48
+Last seen at: 2022-08-05 14:50:48
+Connections count: 726</description>
+            <Point id="234">
+                <coordinates>6.673572,52.96866,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="237">
+            <name>KPN</name>
+            <description>
+Last connected at: 2023-05-05 15:49:58
+Last seen at: 2023-05-05 15:49:58
+Connections count: 647</description>
+            <Point id="236">
+                <coordinates>6.673159,52.968376,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="239">
+            <name>KPN</name>
+            <description>
+Download speed: 20.203615
+Upload speed: 18.091255
+Ping time: 213.0
+Last connected at: 2022-08-05 17:09:21
+Last seen at: 2022-08-05 17:09:21
+Connections count: 7</description>
+            <Point id="238">
+                <coordinates>6.675772,52.96568,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="241">
+            <name>Landgoed Tolhek</name>
+            <description>
+Download speed: 12.3924
+Upload speed: 2.88904
+Ping time: 32.0
+Last connected at: 2020-02-26 19:38:02
+Last seen at: 2022-08-18 02:00:00
+Connections count: 8</description>
+            <Point id="240">
+                <coordinates>6.678178,52.991504,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="243">
+            <name>GastWIFI</name>
+            <description>
+Last connected at: 2023-06-05 02:00:00
+Last seen at: 2023-06-12 02:00:00
+Connections count: 5</description>
+            <Point id="242">
+                <coordinates>6.601344,53.301247,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="245">
+            <name>Ziggo</name>
+            <description>
+Last connected at: 2022-05-08 02:00:00
+Last seen at: 2023-01-04 01:00:00
+Connections count: 14
+Complain: paid_wifi at 2018-06-25T16:53:36.000Z</description>
+            <Point id="244">
+                <coordinates>6.590324,53.30462,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="247">
+            <name>Ziggo</name>
+            <description>
+Download speed: 5.53474
+Upload speed: 1.87639
+Ping time: 59.0
+Last connected at: 2019-01-12 22:08:58
+Last seen at: 2022-05-22 02:00:00
+Connections count: 28
+Complain: paid_wifi at 2018-06-15T18:19:54.000Z</description>
+            <Point id="246">
+                <coordinates>6.592756,53.296778,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="249">
+            <name>De_Peizer_Hopbel_2.4</name>
+            <description>
+Download speed: 35.653954
+Upload speed: 39.00221
+Ping time: 8.0
+Last connected at: 2023-04-08 20:11:47
+Last seen at: 2023-04-08 20:11:47
+Connections count: 2</description>
+            <Point id="248">
+                <coordinates>6.492358,53.149049,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="251">
+            <name>KPN</name>
+            <description>Password: Adrieaan
+Download speed: 12.139553
+Upload speed: 11.575335
+Ping time: 39.0
+Last connected at: 2023-03-10 15:34:56
+Last seen at: 2023-03-10 15:34:56
+Connections count: 227</description>
+            <Point id="250">
+                <coordinates>6.67855,53.11583,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="253">
+            <name>KoningsHerberg</name>
+            <description>
+Last connected at: 2023-05-01 17:57:11
+Last seen at: 2023-05-01 17:57:11
+Connections count: 7</description>
+            <Point id="252">
+                <coordinates>6.698581,53.042401,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="255">
+            <name>JimiHendrix</name>
+            <description>
+Last connected at: 2017-07-18 21:32:20
+Last seen at: 2023-06-17 02:00:00
+Connections count: 3</description>
+            <Point id="254">
+                <coordinates>6.622907,53.237861,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="257">
+            <name>KPN</name>
+            <description>
+Last connected at: 2017-06-21 13:54:55
+Last seen at: 2023-05-05 11:00:00
+Connections count: 1</description>
+            <Point id="256">
+                <coordinates>6.623412,53.231253,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="259">
+            <name>Albert Heijn</name>
+            <description>
+Last connected at: 2020-07-27 19:17:53
+Last seen at: 2023-05-05 11:00:00
+Connections count: 2</description>
+            <Point id="258">
+                <coordinates>6.618923,53.231075,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="261">
+            <name>Ziggo</name>
+            <description>Password: kqtnrherukfjzbg
+Last connected at: 2022-08-04 16:39:57
+Last seen at: 2023-06-01 18:00:00
+Connections count: 21</description>
+            <Point id="260">
+                <coordinates>6.625556,53.23752,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="263">
+            <name>AC-KARD</name>
+            <description>Password: AlfaCollege
+Last connected at: 2019-12-17 13:33:16
+Last seen at: 2022-11-23 01:00:00
+Connections count: 12
+Complain: no_internet at 2021-01-10T19:08:05.000Z</description>
+            <Point id="262">
+                <coordinates>6.592385,53.23798,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="265">
+            <name>Ziggo</name>
+            <description>Password: monkeyteam12
+Download speed: 8.97629
+Upload speed: 1.60796
+Ping time: 17.0
+Last connected at: 2022-08-04 19:52:18
+Last seen at: 2023-06-17 02:00:00
+Connections count: 76</description>
+            <Point id="264">
+                <coordinates>6.570253,53.23257,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="267">
+            <name>WiFi in de trein</name>
+            <description>
+Download speed: 0.600135
+Upload speed: 0.513736
+Ping time: 54.0
+Last connected at: 2023-04-19 10:15:26
+Last seen at: 2023-06-02 21:00:00
+Connections count: 668</description>
+            <Point id="266">
+                <coordinates>6.566265,53.21131,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="269">
+            <name>Jumbo-HotSpot</name>
+            <description>
+Last connected at: 2019-08-23 14:37:28
+Last seen at: 2023-05-27 12:00:00
+Connections count: 15</description>
+            <Point id="268">
+                <coordinates>6.566544,53.219518,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="271">
+            <name>Ziggo8724851</name>
+            <description>Password: aaaaaaaaaaaaaaaaaa
+Download speed: 4.02422
+Upload speed: 0.94003946
+Ping time: 20.0
+Last connected at: 2021-07-13 00:40:34
+Last seen at: 2021-07-13 00:40:34
+Connections count: 3</description>
+            <Point id="270">
+                <coordinates>6.593688,53.254253,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="273">
+            <name> FREEWIFI - Jump XL</name>
+            <description>
+Download speed: 3.20604
+Upload speed: 1.27828
+Ping time: 44.0
+Last connected at: 2018-04-08 12:49:00
+Last seen at: 2022-11-26 01:00:00
+Connections count: 33</description>
+            <Point id="272">
+                <coordinates>6.580393,53.234734,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="275">
+            <name>Gasten</name>
+            <description>
+Download speed: 87.6823
+Upload speed: 40.7214
+Last connected at: 2022-05-29 19:04:08
+Last seen at: 2022-05-29 19:04:08
+Connections count: 38</description>
+            <Point id="274">
+                <coordinates>6.591204,53.238823,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="277">
+            <name>MH80 Guest</name>
+            <description>Password: Mh80Gast!
+Download speed: 95.56755
+Upload speed: 23.783894
+Ping time: 14.0
+Last connected at: 2023-02-06 14:21:57
+Last seen at: 2023-02-06 14:21:57
+Connections count: 2</description>
+            <Point id="276">
+                <coordinates>6.604721,53.23371,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="279">
+            <name>FREE WIFI Dijkmansport</name>
+            <description>
+Last connected at: 2018-04-13 19:26:57
+Last seen at: 2022-11-17 01:00:00
+Connections count: 20</description>
+            <Point id="278">
+                <coordinates>6.591557,53.23501,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="281">
+            <name>Equip Telecom</name>
+            <description>
+Last connected at: 2018-07-11 16:01:39
+Last seen at: 2023-06-11 09:00:00
+Connections count: 20</description>
+            <Point id="280">
+                <coordinates>6.59743,53.23821,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="283">
+            <name>QbuzzWIFI</name>
+            <description>
+Last connected at: 2022-06-03 02:00:00
+Last seen at: 2022-06-03 02:00:00
+Connections count: 51</description>
+            <Point id="282">
+                <coordinates>6.594539,53.2381,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="285">
+            <name>HNPublic</name>
+            <description>
+Last connected at: 2015-10-28 01:00:00
+Last seen at: 2022-08-25 02:00:00
+Connections count: 1</description>
+            <Point id="284">
+                <coordinates>6.59271,53.233613,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="287">
+            <name>Ziggo</name>
+            <description>Password: Goroningen1
+Download speed: 7.90127
+Upload speed: 1.96662
+Ping time: 13.0
+Last connected at: 2022-08-04 02:00:00
+Last seen at: 2023-04-29 17:00:00
+Connections count: 13</description>
+            <Point id="286">
+                <coordinates>6.603238,53.22851,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="289">
+            <name>O2G2</name>
+            <description>Password: Kogge1415
+Download speed: 3.7811527
+Upload speed: 2.9155989
+Ping time: 42.0
+Last connected at: 2022-06-30 11:02:34
+Last seen at: 2022-06-30 11:02:34
+Connections count: 33</description>
+            <Point id="288">
+                <coordinates>6.570712,53.228309,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="291">
+            <name>KPL_Bewoners</name>
+            <description>Password: wifi#kopland@bewoners
+Last connected at: 2022-06-30 21:09:46
+Last seen at: 2022-06-30 21:09:46
+Connections count: 4</description>
+            <Point id="290">
+                <coordinates>6.577779,53.227976,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="293">
+            <name>Ziggo11077</name>
+            <description>Password: pxhjNPVpYxzr
+Download speed: 72.31961
+Upload speed: 24.6356
+Last connected at: 2023-02-07 21:38:02
+Last seen at: 2023-02-09 01:00:00
+Connections count: 144</description>
+            <Point id="292">
+                <coordinates>6.577244,53.231912,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="295">
+            <name>KPN</name>
+            <description>
+Last connected at: 2023-06-08 22:00:04
+Last seen at: 2023-06-08 22:00:04
+Connections count: 20</description>
+            <Point id="294">
+                <coordinates>6.570331,53.234439,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="297">
+            <name>Floreshuis Open</name>
+            <description>Password: floreshuis19
+Last connected at: 2023-06-04 02:00:00
+Last seen at: 2023-06-04 02:00:00
+Connections count: 20</description>
+            <Point id="296">
+                <coordinates>6.568009,53.233074,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="299">
+            <name>Ziggo</name>
+            <description>Password: 29022004
+Last connected at: 2022-06-01 02:00:00
+Last seen at: 2022-12-21 01:00:00
+Connections count: 2</description>
+            <Point id="298">
+                <coordinates>6.58513,53.229847,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="301">
+            <name>Meta4Free</name>
+            <description>Password: 1Aansteker
+Last connected at: 2018-05-31 02:00:00
+Last seen at: 2023-03-27 02:00:00
+Connections count: 1</description>
+            <Point id="300">
+                <coordinates>6.563708,53.220406,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="303">
+            <name>Belga Gasten</name>
+            <description>
+Last connected at: 2020-01-27 01:00:00
+Last seen at: 2022-10-06 11:00:00
+Connections count: 1</description>
+            <Point id="302">
+                <coordinates>6.585335,53.216244,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="305">
+            <name>GVAV Gast</name>
+            <description>Password: homo113amar
+Last connected at: 2020-01-24 19:17:06
+Last seen at: 2022-11-15 01:00:00
+Connections count: 39</description>
+            <Point id="304">
+                <coordinates>6.604122,53.2419,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="307">
+            <name>Ziggo6169B</name>
+            <description>Password: 0000000000000
+Last connected at: 2021-10-27 17:15:49
+Last seen at: 2021-10-27 17:15:49
+Connections count: 1</description>
+            <Point id="306">
+                <coordinates>6.579463,53.226014,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="309">
+            <name>O2G2</name>
+            <description>
+Last connected at: 2022-02-10 09:35:20
+Last seen at: 2022-03-07 01:00:00
+Connections count: 22</description>
+            <Point id="308">
+                <coordinates>6.59271,53.23361,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="311">
+            <name>Huize Maas</name>
+            <description>Password: ikwilwifi
+Last connected at: 2017-09-29 12:21:48
+Last seen at: 2022-10-25 14:00:00
+Connections count: 4</description>
+            <Point id="310">
+                <coordinates>6.564356,53.216998,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="313">
+            <name>tgatvangroningen</name>
+            <description>Password: Tgatvangroningen51
+Download speed: 188.72276
+Upload speed: 28.786087
+Ping time: 11.0
+Last connected at: 2023-03-04 17:27:19
+Last seen at: 2023-04-14 02:00:00
+Connections count: 14</description>
+            <Point id="312">
+                <coordinates>6.572175,53.218497,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="315">
+            <name>FREEWIFI FC Groningen</name>
+            <description>
+Download speed: 47.0687
+Upload speed: 33.9421
+Ping time: 12.0
+Last connected at: 2019-11-19 14:56:22
+Last seen at: 2021-09-17 02:00:00
+Connections count: 716</description>
+            <Point id="314">
+                <coordinates>6.588694,53.20629,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="317">
+            <name>WiPG-Herekamer</name>
+            <description>
+Last connected at: 2013-11-19 01:00:00
+Last seen at: 2022-08-27 11:00:00
+Connections count: 1</description>
+            <Point id="316">
+                <coordinates>6.573371,53.206773,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="319">
+            <name>AC-BOUM</name>
+            <description>Password: AlfaCollege
+Upload speed: 27.1128
+Ping time: 10.0
+Last connected at: 2019-09-17 14:39:56
+Last seen at: 2022-04-15 02:00:00
+Connections count: 1147</description>
+            <Point id="318">
+                <coordinates>6.590341,53.20719,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="321">
+            <name>amanpuri</name>
+            <description>Password: bedbadbrood
+Download speed: 14.563331
+Upload speed: 34.272495
+Ping time: 61.0
+Last connected at: 2023-01-03 01:00:00
+Last seen at: 2023-06-15 02:00:00
+Connections count: 323</description>
+            <Point id="320">
+                <coordinates>6.590426,53.220247,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="323">
+            <name>LaunchCafe</name>
+            <description>Password: Groningen
+Last connected at: 2019-09-13 15:55:02
+Last seen at: 2022-10-24 02:00:00
+Connections count: 29</description>
+            <Point id="322">
+                <coordinates>6.569315,53.21419,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="325">
+            <name>TP-LINK 1ste verdieping</name>
+            <description>Password: southpark
+Last connected at: 2015-11-15 01:00:00
+Last seen at: 2022-01-21 01:00:00
+Connections count: 1</description>
+            <Point id="324">
+                <coordinates>6.573606,53.212489,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="327">
+            <name>Gasten Bloemsingel 81</name>
+            <description>Password: Bloemsingel 
+Last connected at: 2022-01-02 01:00:00
+Last seen at: 2022-11-07 01:00:00
+Connections count: 2</description>
+            <Point id="326">
+                <coordinates>6.564811,53.226196,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="329">
+            <name>TimeOut Free</name>
+            <description>
+Last connected at: 2022-08-18 02:00:00
+Last seen at: 2023-04-14 02:00:00
+Connections count: 38</description>
+            <Point id="328">
+                <coordinates>6.570888,53.21842,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="331">
+            <name>KPN</name>
+            <description>
+Last connected at: 2020-10-10 19:15:13
+Last seen at: 2023-04-21 18:00:00
+Connections count: 80</description>
+            <Point id="330">
+                <coordinates>6.570025,53.215513,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="333">
+            <name>KPN</name>
+            <description>Password: 12345678
+Download speed: 8.87296
+Upload speed: 8.34841
+Ping time: 16.0
+Last connected at: 2023-06-09 02:00:00
+Last seen at: 2023-06-09 02:00:00
+Connections count: 611</description>
+            <Point id="332">
+                <coordinates>6.565303,53.214127,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="335">
+            <name>TMNL-D2F6C1</name>
+            <description>Password: SALIOUrama4
+Last connected at: 2021-02-28 11:56:33
+Last seen at: 2023-04-01 02:00:00
+Connections count: 1</description>
+            <Point id="334">
+                <coordinates>6.569196,53.232979,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="337">
+            <name>Gasten</name>
+            <description>
+Last connected at: 2017-11-02 15:56:59
+Last seen at: 2022-09-04 19:00:00
+Connections count: 10</description>
+            <Point id="336">
+                <coordinates>6.566527,53.212367,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="339">
+            <name>DCG-Guest</name>
+            <description>
+Last connected at: 2013-11-19 01:00:00
+Last seen at: 2023-06-12 02:00:00
+Connections count: 1
+Complain: wrong_password at 2018-09-19T12:01:16.000Z</description>
+            <Point id="338">
+                <coordinates>6.57291,53.223007,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="341">
+            <name>Wensink Public</name>
+            <description>
+Last connected at: 2023-05-26 02:00:00
+Last seen at: 2023-06-12 02:00:00
+Connections count: 35</description>
+            <Point id="340">
+                <coordinates>6.59651,53.209412,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="343">
+            <name>TKP_Guest</name>
+            <description>Password: Volksverzekering
+Last connected at: 2019-06-24 14:03:30
+Last seen at: 2023-03-16 01:00:00
+Connections count: 2</description>
+            <Point id="342">
+                <coordinates>6.586292,53.21147,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="345">
+            <name>Ziggo6941738</name>
+            <description>Password: n3spmMstebcm
+Last connected at: 2021-11-08 00:44:51
+Last seen at: 2022-05-19 02:00:00
+Connections count: 1</description>
+            <Point id="344">
+                <coordinates>6.581147,53.210632,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="347">
+            <name>molengast</name>
+            <description>Password: m0lengast
+Last connected at: 2023-03-16 22:19:47
+Last seen at: 2023-06-14 19:00:00
+Connections count: 8</description>
+            <Point id="346">
+                <coordinates>6.563593,53.21239,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="349">
+            <name>Villa Heymans</name>
+            <description>
+Download speed: 8.32395
+Upload speed: 4.55852
+Ping time: 20.0
+Last connected at: 2019-06-28 17:22:23
+Last seen at: 2022-09-25 17:00:00
+Connections count: 2</description>
+            <Point id="348">
+                <coordinates>6.564074,53.210982,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="351">
+            <name>Lodewijkstraat</name>
+            <description>Password: 0912873465
+Download speed: 32.823837
+Upload speed: 16.020092
+Ping time: 10.0
+Last connected at: 2022-12-11 23:53:04
+Last seen at: 2022-12-12 14:00:00
+Connections count: 4</description>
+            <Point id="350">
+                <coordinates>6.576432,53.209442,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="353">
+            <name>KPN</name>
+            <description>
+Last connected at: 2022-11-12 12:26:49
+Last seen at: 2023-06-14 19:00:00
+Connections count: 19</description>
+            <Point id="352">
+                <coordinates>6.571614,53.210274,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="355">
+            <name>Groninger Museum</name>
+            <description>
+Download speed: 26.9911
+Upload speed: 41.5534
+Ping time: 18.0
+Last connected at: 2023-05-07 02:00:00
+Last seen at: 2023-06-14 18:00:00
+Connections count: 88</description>
+            <Point id="354">
+                <coordinates>6.566776,53.210993,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="357">
+            <name>Quintus5-guest</name>
+            <description>
+Last connected at: 2016-04-22 02:00:00
+Last seen at: 2022-08-14 17:00:00
+Connections count: 1</description>
+            <Point id="356">
+                <coordinates>6.577026,53.217675,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="359">
+            <name>OKAPHONE</name>
+            <description>
+Last connected at: 2016-04-22 02:00:00
+Last seen at: 2022-05-14 02:00:00
+Connections count: 1</description>
+            <Point id="358">
+                <coordinates>6.565931,53.221078,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="361">
+            <name>Diep</name>
+            <description>Password: diep1234
+Download speed: 12.6544
+Upload speed: 16.2475
+Ping time: 18.0
+Last connected at: 2023-03-04 14:14:37
+Last seen at: 2023-03-07 07:00:00
+Connections count: 2</description>
+            <Point id="360">
+                <coordinates>6.573,53.218781,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="363">
+            <name>Burger King FreeWifi</name>
+            <description>
+Download speed: 1.3312201
+Upload speed: 2.8679144
+Ping time: 27.0
+Last connected at: 2023-01-01 01:00:00
+Last seen at: 2023-05-06 02:00:00
+Connections count: 83</description>
+            <Point id="362">
+                <coordinates>6.565736,53.218911,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="365">
+            <name>Multea Choice Guest</name>
+            <description>Password: Youaresopretty9
+Download speed: 267.2988
+Upload speed: 31.072891
+Ping time: 11.0
+Last connected at: 2023-01-04 17:34:53
+Last seen at: 2023-06-17 12:00:00
+Connections count: 4</description>
+            <Point id="364">
+                <coordinates>6.56897,53.217995,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="367">
+            <name>FreeWiFi_Fujiyama</name>
+            <description>
+Download speed: 1.0328535
+Upload speed: 1.4952378
+Ping time: 21.0
+Last connected at: 2023-03-16 04:18:15
+Last seen at: 2023-05-27 12:00:00
+Connections count: 4</description>
+            <Point id="366">
+                <coordinates>6.566819,53.220058,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="369">
+            <name>Ziggo</name>
+            <description>Password: octylzoltkujlzv
+Download speed: 8.81176
+Upload speed: 1.79617
+Ping time: 25.0
+Last connected at: 2023-06-16 00:55:40
+Last seen at: 2023-06-17 13:00:00
+Connections count: 713</description>
+            <Point id="368">
+                <coordinates>6.570747,53.21836,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="371">
+            <name>Dees Smokers</name>
+            <description>Password: Bl03mk00i
+Download speed: 178.45134
+Upload speed: 24.454754
+Ping time: 12.0
+Last connected at: 2023-06-07 21:15:28
+Last seen at: 2023-06-07 21:15:28
+Connections count: 6</description>
+            <Point id="370">
+                <coordinates>6.570328,53.217476,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="373">
+            <name>The Market Hotel</name>
+            <description>
+Download speed: 270.2184
+Upload speed: 66.63353
+Ping time: 11.0
+Last connected at: 2023-06-08 02:00:00
+Last seen at: 2023-06-08 02:00:00
+Connections count: 399</description>
+            <Point id="372">
+                <coordinates>6.568538,53.218766,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="375">
+            <name>Provincie-wifi</name>
+            <description>Password: provincie
+Last connected at: 2019-07-10 14:49:54
+Last seen at: 2022-12-11 01:00:00
+Connections count: 24</description>
+            <Point id="374">
+                <coordinates>6.569974,53.21968,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="377">
+            <name>O2G2</name>
+            <description>Password: Prae82Singel!
+Download speed: 3.72696
+Upload speed: 3.34559
+Ping time: 6.0
+Last connected at: 2021-10-27 12:44:33
+Last seen at: 2022-12-11 01:00:00
+Connections count: 249</description>
+            <Point id="376">
+                <coordinates>6.572548,53.22058,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="379">
+            <name>H369A9BC65C</name>
+            <description>Password: 4801adeeb
+Last connected at: 2017-10-12 04:48:27
+Last seen at: 2023-03-27 02:00:00
+Connections count: 18</description>
+            <Point id="378">
+                <coordinates>6.568093,53.217571,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="381">
+            <name>Konbu</name>
+            <description>Password: Streetfood10
+Download speed: 5.87217
+Upload speed: 4.89148
+Ping time: 135.0
+Last connected at: 2018-10-18 18:36:27
+Last seen at: 2023-06-13 02:00:00
+Connections count: 1</description>
+            <Point id="380">
+                <coordinates>6.569309,53.217968,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="383">
+            <name>McDonald's free Wifi</name>
+            <description>
+Download speed: 12.8537
+Upload speed: 2.66456
+Ping time: 27.0
+Last connected at: 2022-08-08 20:25:03
+Last seen at: 2023-05-30 16:00:00
+Connections count: 126</description>
+            <Point id="382">
+                <coordinates>6.584538,53.216265,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="385">
+            <name>Favolosa</name>
+            <description>Password: Favolosa@bar
+Last connected at: 2022-02-26 01:00:00
+Last seen at: 2023-05-14 02:00:00
+Connections count: 2</description>
+            <Point id="384">
+                <coordinates>6.566701,53.21774,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="387">
+            <name>Perry #KeepMoving</name>
+            <description>
+Last connected at: 2022-04-09 02:00:00
+Last seen at: 2023-02-27 12:00:00
+Connections count: 3</description>
+            <Point id="386">
+                <coordinates>6.565506,53.217751,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="389">
+            <name>NH-Hotel-Group</name>
+            <description>
+Download speed: 3.9009423
+Upload speed: 3.8515525
+Ping time: 84.0
+Last connected at: 2023-04-10 19:30:29
+Last seen at: 2023-04-17 02:00:00
+Connections count: 3</description>
+            <Point id="388">
+                <coordinates>6.57613,53.22047,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="391">
+            <name>VUwirelessSetup</name>
+            <description>
+Last connected at: 2017-09-14 19:30:07
+Last seen at: 2023-05-27 12:00:00
+Connections count: 1</description>
+            <Point id="390">
+                <coordinates>6.566671,53.220335,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="393">
+            <name>KPN</name>
+            <description>
+Last connected at: 2023-06-07 14:32:05
+Last seen at: 2023-06-07 14:32:05
+Connections count: 234</description>
+            <Point id="392">
+                <coordinates>6.566951,53.21933,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="395">
+            <name>NH-Hotel-Group</name>
+            <description>
+Last connected at: 2021-08-22 11:23:21
+Last seen at: 2022-03-26 01:00:00
+Connections count: 22</description>
+            <Point id="394">
+                <coordinates>6.564588,53.220299,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="397">
+            <name>Biechtstoel Gast</name>
+            <description>Password: heiligen
+Last connected at: 2019-09-22 18:27:15
+Last seen at: 2023-04-11 02:00:00
+Connections count: 1</description>
+            <Point id="396">
+                <coordinates>6.57539,53.217529,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="399">
+            <name>Drie Gezusters Guest</name>
+            <description>
+Last connected at: 2023-05-06 14:59:53
+Last seen at: 2023-05-27 12:00:00
+Connections count: 5</description>
+            <Point id="398">
+                <coordinates>6.566592,53.21911,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="401">
+            <name>Pannekoekschip</name>
+            <description>Password: Pannekoek1
+Last connected at: 2020-08-29 13:16:17
+Last seen at: 2022-06-29 02:00:00
+Connections count: 1</description>
+            <Point id="400">
+                <coordinates>6.5732,53.217809,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="403">
+            <name>Gast_News_Groningen_BV</name>
+            <description>Password: sevendag3
+Download speed: 47.4985
+Upload speed: 39.6313
+Ping time: 18.0
+Last connected at: 2023-04-23 19:02:35
+Last seen at: 2023-05-22 13:00:00
+Connections count: 188</description>
+            <Point id="402">
+                <coordinates>6.56685,53.218276,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="405">
+            <name>Forum Groningen</name>
+            <description>Password: hotel036
+Download speed: 117.457
+Upload speed: 81.9987
+Ping time: 6.0
+Last connected at: 2023-05-26 02:00:00
+Last seen at: 2023-05-26 09:00:00
+Connections count: 1256</description>
+            <Point id="404">
+                <coordinates>6.568166,53.2186,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="407">
+            <name>Goudkantoor Free</name>
+            <description>Password: 12345678
+Last connected at: 2023-04-04 15:28:47
+Last seen at: 2023-05-22 13:00:00
+Connections count: 65</description>
+            <Point id="406">
+                <coordinates>6.566267,53.21849,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="409">
+            <name>VRV9517744A4F</name>
+            <description>Password: t97yw3RMVp3A
+Download speed: 26.972063
+Upload speed: 9.0283785
+Ping time: 12.0
+Last connected at: 2022-11-24 09:21:40
+Last seen at: 2022-11-24 09:21:40
+Connections count: 3</description>
+            <Point id="408">
+                <coordinates>6.5679,53.214571,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="411">
+            <name>Prins</name>
+            <description>Password: marclucstef11!
+Last connected at: 2022-01-21 22:18:31
+Last seen at: 2022-01-21 22:18:31
+Connections count: 6</description>
+            <Point id="410">
+                <coordinates>6.569869,53.214709,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="413">
+            <name>Jachthaven</name>
+            <description>Password: Jachthaven
+Download speed: 5.23244
+Upload speed: 34.4994
+Ping time: 48.0
+Last connected at: 2022-12-06 01:00:00
+Last seen at: 2023-05-28 02:00:00
+Connections count: 52</description>
+            <Point id="412">
+                <coordinates>6.576819,53.216374,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="415">
+            <name>bezoeker@enexis</name>
+            <description>Password: 00000000000
+Last connected at: 2017-10-23 02:00:00
+Last seen at: 2021-08-16 02:00:00
+Connections count: 1</description>
+            <Point id="414">
+                <coordinates>6.589398,53.211816,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="417">
+            <name>Bar1672</name>
+            <description>
+Last connected at: 2023-02-12 00:48:31
+Last seen at: 2023-06-14 02:00:00
+Connections count: 4</description>
+            <Point id="416">
+                <coordinates>6.56987,53.21579,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="419">
+            <name>Ziggo95748</name>
+            <description>Password: TxjxjFr4FkVy
+Last connected at: 2015-07-20 02:00:00
+Last seen at: 2022-04-16 02:00:00
+Connections count: 1</description>
+            <Point id="418">
+                <coordinates>6.567901,53.214054,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="421">
+            <name>Coffeecompany</name>
+            <description>Password: sinds1996
+Download speed: 14.78185
+Upload speed: 0.98660755
+Ping time: 23.0
+Last connected at: 2022-07-07 02:00:00
+Last seen at: 2022-07-20 02:00:00
+Connections count: 18</description>
+            <Point id="420">
+                <coordinates>6.570403,53.216629,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="423">
+            <name>VERA ww=veraclub</name>
+            <description>
+Last connected at: 2023-05-23 02:00:00
+Last seen at: 2023-06-07 20:00:00
+Connections count: 26</description>
+            <Point id="422">
+                <coordinates>6.570089,53.217047,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="425">
+            <name>NETGEAR</name>
+            <description>
+Last connected at: 2016-04-22 02:00:00
+Last seen at: 2023-04-17 16:00:00
+Connections count: 1</description>
+            <Point id="424">
+                <coordinates>6.563446,53.217019,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="427">
+            <name>Capricio Free Wifi</name>
+            <description>Password: pizza1234
+Download speed: 6.03527
+Upload speed: 6.24365
+Ping time: 27.0
+Last connected at: 2022-09-29 18:09:12
+Last seen at: 2023-06-10 02:00:00
+Connections count: 5</description>
+            <Point id="426">
+                <coordinates>6.563439,53.216778,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="429">
+            <name>bos&amp;bos</name>
+            <description>Password: ikwilinternet
+Last connected at: 2017-01-01 01:00:00
+Last seen at: 2023-05-22 13:00:00
+Connections count: 1</description>
+            <Point id="428">
+                <coordinates>6.563961,53.216679,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="431">
+            <name>KPN</name>
+            <description>
+Download speed: 8.2569
+Upload speed: 1.59291
+Ping time: 33.0
+Last connected at: 2022-07-03 22:40:11
+Last seen at: 2022-10-24 17:00:00
+Connections count: 317</description>
+            <Point id="430">
+                <coordinates>6.575032,53.21589,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="433">
+            <name>Bauhaus Groningen</name>
+            <description>
+Download speed: 1.46858
+Upload speed: 0.679675
+Ping time: 36.0
+Last connected at: 2022-01-25 01:00:00
+Last seen at: 2023-06-17 15:00:00
+Connections count: 242
+Complain: paid_wifi at 2022-08-06T11:35:12.000Z</description>
+            <Point id="432">
+                <coordinates>6.59275,53.2146,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="435">
+            <name>Rabenhaupt Personeel</name>
+            <description>
+Last connected at: 2018-08-09 21:20:03
+Last seen at: 2023-05-27 15:00:00
+Connections count: 7</description>
+            <Point id="434">
+                <coordinates>6.570451,53.21579,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="437">
+            <name>GratisWiFi Da Carlo</name>
+            <description>
+Last connected at: 2022-08-22 02:00:00
+Last seen at: 2023-03-27 19:00:00
+Connections count: 48</description>
+            <Point id="436">
+                <coordinates>6.568252,53.215,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="439">
+            <name>CB</name>
+            <description>Password: Coffeelover
+Download speed: 4.67363
+Upload speed: 0.831608
+Ping time: 44.0
+Last connected at: 2018-04-27 09:08:05
+Last seen at: 2023-05-27 15:00:00
+Connections count: 1</description>
+            <Point id="438">
+                <coordinates>6.569308,53.215126,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="441">
+            <name>Fresh Today Gast</name>
+            <description>
+Download speed: 0.642434
+Upload speed: 0.953394
+Ping time: 31.0
+Last connected at: 2018-08-21 18:26:15
+Last seen at: 2023-03-14 01:00:00
+Connections count: 8</description>
+            <Point id="440">
+                <coordinates>6.564637,53.215223,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="443">
+            <name>grandcafegroningen-gratis</name>
+            <description>
+Last connected at: 2018-02-05 16:10:54
+Last seen at: 2023-06-11 02:00:00
+Connections count: 4</description>
+            <Point id="442">
+                <coordinates>6.567012,53.214716,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="445">
+            <name>MONKI Free WiFi</name>
+            <description>
+Download speed: 21.698605
+Upload speed: 2.1067724
+Ping time: 12.0
+Last connected at: 2022-10-26 11:21:38
+Last seen at: 2022-10-26 13:00:00
+Connections count: 3</description>
+            <Point id="444">
+                <coordinates>6.56749,53.216863,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="447">
+            <name>Jumbo-HotSpot</name>
+            <description>
+Last connected at: 2022-06-08 02:00:00
+Last seen at: 2022-09-04 16:00:00
+Connections count: 62</description>
+            <Point id="446">
+                <coordinates>6.572495,53.215159,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="449">
+            <name>huisdebeurs</name>
+            <description>Password: internet
+Download speed: 11.2808
+Upload speed: 6.41862
+Ping time: 58.0
+Last connected at: 2023-02-04 01:00:00
+Last seen at: 2023-05-22 13:00:00
+Connections count: 32</description>
+            <Point id="448">
+                <coordinates>6.563889,53.216657,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="451">
+            <name>Provincie-wifi</name>
+            <description>
+Last connected at: 2016-04-22 02:00:00
+Last seen at: 2022-04-20 02:00:00
+Connections count: 1</description>
+            <Point id="450">
+                <coordinates>6.569652,53.216557,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="453">
+            <name>Coffee Break</name>
+            <description>Password: espresso
+Last connected at: 2023-03-01 18:02:24
+Last seen at: 2023-03-01 18:02:24
+Connections count: 4</description>
+            <Point id="452">
+                <coordinates>6.569915,53.215176,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="455">
+            <name>Gast_Doppio_Espresso_Groningen</name>
+            <description>
+Last connected at: 2023-02-28 17:05:39
+Last seen at: 2023-05-02 02:00:00
+Connections count: 12</description>
+            <Point id="454">
+                <coordinates>6.565238,53.214673,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="457">
+            <name>Grand Cafe Groningen</name>
+            <description>
+Last connected at: 2018-05-22 13:24:05
+Last seen at: 2023-06-11 22:00:00
+Connections count: 6</description>
+            <Point id="456">
+                <coordinates>6.567012,53.214716,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="459">
+            <name>Cafe de Oude Wacht</name>
+            <description>Password: Trinitas
+Last connected at: 2023-06-08 02:00:00
+Last seen at: 2023-06-08 02:00:00
+Connections count: 11</description>
+            <Point id="458">
+                <coordinates>6.570426,53.21592,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="461">
+            <name>AHbackV2</name>
+            <description>
+Last connected at: 2017-12-10 19:32:33
+Last seen at: 2023-06-10 12:00:00
+Connections count: 14</description>
+            <Point id="460">
+                <coordinates>6.563427,53.21681,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="463">
+            <name>PATHE WIFI</name>
+            <description>
+Last connected at: 2023-03-02 14:41:13
+Last seen at: 2023-06-14 20:00:00
+Connections count: 631</description>
+            <Point id="462">
+                <coordinates>6.566165,53.21424,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="465">
+            <name>Chaplin's Pub</name>
+            <description>Password: bierislekker
+Download speed: 93.54352
+Upload speed: 23.169434
+Ping time: 10.0
+Last connected at: 2023-05-26 20:06:07
+Last seen at: 2023-06-14 20:00:00
+Connections count: 4</description>
+            <Point id="464">
+                <coordinates>6.565988,53.214626,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="467">
+            <name>HEMA Wi-Fi</name>
+            <description>
+Last connected at: 2020-01-26 15:29:22
+Last seen at: 2023-03-13 17:00:00
+Connections count: 74</description>
+            <Point id="466">
+                <coordinates>6.568403,53.21605,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="469">
+            <name>ING Open WiFi</name>
+            <description>Password: sevendag3
+Last connected at: 2023-06-07 14:50:59
+Last seen at: 2023-06-07 14:50:59
+Connections count: 15</description>
+            <Point id="468">
+                <coordinates>6.569702,53.213678,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="471">
+            <name>Gast_Martini Hotel</name>
+            <description>Password: MartiniInternet
+Download speed: 6.3767
+Upload speed: 9.76865
+Ping time: 24.0
+Last connected at: 2023-05-27 02:00:00
+Last seen at: 2023-06-14 20:00:00
+Connections count: 22</description>
+            <Point id="470">
+                <coordinates>6.57085,53.21566,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="473">
+            <name>Restaurant De Ringweg FreeWiFi</name>
+            <description>
+Last connected at: 2017-07-14 08:59:05
+Last seen at: 2022-11-17 01:00:00
+Connections count: 11</description>
+            <Point id="472">
+                <coordinates>6.595484,53.2121,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="475">
+            <name>personeeld</name>
+            <description>Password: 12345678
+Last connected at: 2018-02-22 20:53:15
+Last seen at: 2022-08-27 16:00:00
+Connections count: 6</description>
+            <Point id="474">
+                <coordinates>6.572458,53.21696,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="477">
+            <name>WadapartjaGast</name>
+            <description>Password: wadapartja
+Last connected at: 2018-11-18 14:21:50
+Last seen at: 2022-08-27 12:00:00
+Connections count: 4</description>
+            <Point id="476">
+                <coordinates>6.567619,53.21504,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="479">
+            <name>UMCG-Guest</name>
+            <description>
+Download speed: 61.94161
+Upload speed: 80.69099
+Ping time: 4.0
+Last connected at: 2023-03-29 15:21:53
+Last seen at: 2023-04-18 15:00:00
+Connections count: 616</description>
+            <Point id="478">
+                <coordinates>6.576063,53.221851,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="481">
+            <name>Da Vinci</name>
+            <description>Password: Leonardo
+Last connected at: 2023-06-02 18:07:19
+Last seen at: 2023-06-02 18:07:19
+Connections count: 16
+Complain: no_internet at 2022-02-13T17:25:21.000Z</description>
+            <Point id="480">
+                <coordinates>6.567637,53.221969,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="483">
+            <name>TSHGuest</name>
+            <description>
+Download speed: 43.83772
+Upload speed: 37.422142
+Ping time: 21.0
+Last connected at: 2022-09-06 23:31:57
+Last seen at: 2023-03-27 14:00:00
+Connections count: 253</description>
+            <Point id="482">
+                <coordinates>6.565954,53.223618,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="485">
+            <name>HHL_Gasten</name>
+            <description>Password: welkom@hhl
+Last connected at: 2019-09-25 11:54:32
+Last seen at: 2022-11-14 01:00:00
+Connections count: 2</description>
+            <Point id="484">
+                <coordinates>6.515515,53.327755,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="487">
+            <name>Arriva 244</name>
+            <description>
+Last connected at: 2022-03-14 01:00:00
+Last seen at: 2022-03-14 01:00:00
+Connections count: 8</description>
+            <Point id="486">
+                <coordinates>6.520311,53.330089,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="489">
+            <name>BMW_Public</name>
+            <description>
+Last connected at: 2017-03-17 01:00:00
+Last seen at: 2023-05-28 02:00:00
+Connections count: 1</description>
+            <Point id="488">
+                <coordinates>6.520045,53.330454,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="491">
+            <name>Nieno</name>
+            <description>Password: required
+Last connected at: 2022-03-04 01:00:00
+Last seen at: 2023-05-02 02:00:00
+Connections count: 30</description>
+            <Point id="490">
+                <coordinates>6.396193,53.166263,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="493">
+            <name>Breed</name>
+            <description>
+Last connected at: 2018-05-11 12:21:50
+Last seen at: 2023-05-28 02:00:00
+Connections count: 8</description>
+            <Point id="492">
+                <coordinates>6.392977,53.164073,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="495">
+            <name>QbuzzWIFI</name>
+            <description>
+Last connected at: 2020-08-31 15:04:35
+Last seen at: 2022-01-20 01:00:00
+Connections count: 2</description>
+            <Point id="494">
+                <coordinates>6.390555,53.16337,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="497">
+            <name>Westerkwartier_gast</name>
+            <description>
+Last connected at: 2022-04-07 02:00:00
+Last seen at: 2023-02-16 14:00:00
+Connections count: 7</description>
+            <Point id="496">
+                <coordinates>6.386534,53.166179,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="499">
+            <name>Nijhuis Gast</name>
+            <description>
+Last connected at: 2017-10-12 08:45:06
+Last seen at: 2022-05-30 02:00:00
+Connections count: 4</description>
+            <Point id="498">
+                <coordinates>6.371802,53.177793,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="501">
+            <name>Divoza-Gast</name>
+            <description>
+Last connected at: 2023-04-27 13:27:41
+Last seen at: 2023-06-11 23:00:00
+Connections count: 8</description>
+            <Point id="500">
+                <coordinates>6.368958,53.179281,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="503">
+            <name>AGORA-WAP</name>
+            <description>Password: zeebonken
+Download speed: 8.83507
+Upload speed: 5.00254
+Ping time: 12.0
+Last connected at: 2018-02-16 21:12:00
+Last seen at: 2022-10-14 02:00:00
+Connections count: 216</description>
+            <Point id="502">
+                <coordinates>6.372661,53.17062,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="505">
+            <name>Ziggo15467</name>
+            <description>Password: jfrW6CAVJ4N3,
+Last connected at: 2016-04-18 02:00:00
+Last seen at: 2022-03-12 01:00:00
+Connections count: 1</description>
+            <Point id="504">
+                <coordinates>6.623463,53.165869,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="507">
+            <name>Zernike</name>
+            <description>Password: z3rn1k3c0ll3g3wlan149
+Last connected at: 2016-04-26 02:00:00
+Last seen at: 2023-04-23 02:00:00
+Connections count: 1</description>
+            <Point id="506">
+                <coordinates>6.614977,53.17654,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="509">
+            <name>harms</name>
+            <description>Password: dnsnsns
+Last connected at: 2020-02-05 07:10:11
+Last seen at: 2023-03-27 02:00:00
+Connections count: 3</description>
+            <Point id="508">
+                <coordinates>6.578424,53.070259,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="511">
+            <name>FREEWIFI-GaZ</name>
+            <description>
+Last connected at: 2022-07-01 02:00:00
+Last seen at: 2022-08-25 02:00:00
+Connections count: 17</description>
+            <Point id="510">
+                <coordinates>6.494675,53.304681,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="513">
+            <name>Ebelties</name>
+            <description>
+Last connected at: 2016-04-21 02:00:00
+Last seen at: 2023-04-26 02:00:00
+Connections count: 1</description>
+            <Point id="512">
+                <coordinates>6.552532,53.008121,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="515">
+            <name>OVGAST</name>
+            <description>Password: pr0ject1nr1cht1ng
+Last connected at: 2016-10-26 02:00:00
+Last seen at: 2023-06-06 02:00:00
+Connections count: 1</description>
+            <Point id="514">
+                <coordinates>6.561505,53.024553,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="517">
+            <name>KPN</name>
+            <description>
+Download speed: 7.5536613
+Upload speed: 0.9311387
+Ping time: 16.0
+Last connected at: 2023-02-20 01:00:00
+Last seen at: 2023-06-09 17:00:00
+Connections count: 70</description>
+            <Point id="516">
+                <coordinates>6.561488,53.016593,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="519">
+            <name>GGD_gasten</name>
+            <description>
+Last connected at: 2019-10-29 17:14:44
+Last seen at: 2021-08-31 02:00:00
+Connections count: 8</description>
+            <Point id="518">
+                <coordinates>6.736156,53.163422,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="521">
+            <name>Jumbo-HotSpot</name>
+            <description>
+Last connected at: 2022-05-02 02:00:00
+Last seen at: 2022-05-02 02:00:00
+Connections count: 19</description>
+            <Point id="520">
+                <coordinates>6.744549,53.162743,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="523">
+            <name>Faber-Guests</name>
+            <description>Password: faberinternet
+Last connected at: 2022-06-17 20:29:32
+Last seen at: 2023-03-14 01:00:00
+Connections count: 3</description>
+            <Point id="522">
+                <coordinates>6.755303,53.163972,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="525">
+            <name>Ziggo</name>
+            <description>
+Last connected at: 2019-01-10 09:53:31
+Last seen at: 2023-04-20 02:00:00
+Connections count: 3</description>
+            <Point id="524">
+                <coordinates>6.722891,53.16777,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="527">
+            <name>Reining_2</name>
+            <description>Password: DFDD18D6853
+Last connected at: 2017-09-22 09:34:12
+Last seen at: 2023-04-24 02:00:00
+Connections count: 26</description>
+            <Point id="526">
+                <coordinates>6.736857,53.174732,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="529">
+            <name>KPN</name>
+            <description>Password: olliemathijsdiesel999
+Last connected at: 2022-09-04 02:00:00
+Last seen at: 2022-11-20 14:00:00
+Connections count: 36</description>
+            <Point id="528">
+                <coordinates>6.716625,53.187008,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="531">
+            <name>Welkom bij TotalEnergies</name>
+            <description>Password: jehebtdowm
+Last connected at: 2018-05-28 04:33:21
+Last seen at: 2022-11-20 14:00:00
+Connections count: 8</description>
+            <Point id="530">
+                <coordinates>6.716625,53.187008,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="533">
+            <name>Deco 45</name>
+            <description>Password: VanBreukelenRoderesch41
+Last connected at: 2021-11-04 20:04:01
+Last seen at: 2023-04-03 02:00:00
+Connections count: 1</description>
+            <Point id="532">
+                <coordinates>6.418978,53.11182,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="535">
+            <name>QbuzzWIFI</name>
+            <description>
+Last connected at: 2022-07-04 02:00:00
+Last seen at: 2022-07-04 02:00:00
+Connections count: 8</description>
+            <Point id="534">
+                <coordinates>6.429756,53.139816,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="537">
+            <name>Fitnesscentrum Roden</name>
+            <description>
+Last connected at: 2022-12-03 01:00:00
+Last seen at: 2022-12-03 01:00:00
+Connections count: 27</description>
+            <Point id="536">
+                <coordinates>6.432822,53.142657,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="539">
+            <name>Vrijbuiter</name>
+            <description>
+Last connected at: 2022-08-14 02:00:00
+Last seen at: 2023-04-11 02:00:00
+Connections count: 68</description>
+            <Point id="538">
+                <coordinates>6.433144,53.143242,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="541">
+            <name>OV-HUB 01</name>
+            <description>
+Download speed: 46.100784
+Upload speed: 9.687471
+Ping time: 48.0
+Last connected at: 2022-09-07 02:00:00
+Last seen at: 2023-02-17 01:00:00
+Connections count: 345</description>
+            <Point id="540">
+                <coordinates>6.429756,53.139816,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="543">
+            <name>GASTEN-LVD-NIEUW</name>
+            <description>
+Download speed: 3.034824
+Upload speed: 2.4535508
+Ping time: 311.0
+Last connected at: 2022-08-25 02:00:00
+Last seen at: 2022-08-25 02:00:00
+Connections count: 22</description>
+            <Point id="542">
+                <coordinates>6.756597,52.976641,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="545">
+            <name>Public</name>
+            <description>
+Download speed: 1.9899344
+Upload speed: 1.699109
+Ping time: 10.0
+Last connected at: 2023-03-13 23:04:47
+Last seen at: 2023-03-13 23:04:47
+Connections count: 7</description>
+            <Point id="544">
+                <coordinates>6.746047,53.000392,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="547">
+            <name>APPELBERGEN_GASTEN</name>
+            <description>
+Download speed: 55.992126
+Upload speed: 10.543416
+Ping time: 26.0
+Last connected at: 2023-03-27 19:06:21
+Last seen at: 2023-03-27 19:06:21
+Connections count: 5</description>
+            <Point id="546">
+                <coordinates>6.639713,53.136514,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="549">
+            <name>AnnenOnline</name>
+            <description>
+Last connected at: 2022-07-21 02:00:00
+Last seen at: 2022-11-11 01:00:00
+Connections count: 4</description>
+            <Point id="548">
+                <coordinates>6.727275,53.054683,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="551">
+            <name>Rikus</name>
+            <description>Password: indrenthe
+Download speed: 19.0574
+Ping time: 34.0
+Last connected at: 2022-08-12 02:00:00
+Last seen at: 2023-04-18 02:00:00
+Connections count: 17</description>
+            <Point id="550">
+                <coordinates>6.734416,53.0202,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="553">
+            <name>Vedder</name>
+            <description>
+Last connected at: 2017-07-23 22:22:26
+Last seen at: 2022-09-12 02:00:00
+Connections count: 2</description>
+            <Point id="552">
+                <coordinates>6.729321,53.011934,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="555">
+            <name>de Hondsrug</name>
+            <description>
+Last connected at: 2022-08-21 02:00:00
+Last seen at: 2022-08-21 02:00:00
+Connections count: 314</description>
+            <Point id="554">
+                <coordinates>6.740576,53.03931,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="557">
+            <name>Ziggo14819</name>
+            <description>Password: kioskgieten
+Last connected at: 2015-03-13 01:00:00
+Last seen at: 2022-05-11 02:00:00
+Connections count: 1</description>
+            <Point id="556">
+                <coordinates>6.751874,53.006621,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="559">
+            <name>CKCleerlingen</name>
+            <description>
+Last connected at: 2019-10-16 17:04:55
+Last seen at: 2023-05-12 02:00:00
+Connections count: 5</description>
+            <Point id="558">
+                <coordinates>6.582756,53.017754,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="561">
+            <name>DrayTek</name>
+            <description>
+Last connected at: 2016-04-22 02:00:00
+Last seen at: 2022-03-17 01:00:00
+Connections count: 1</description>
+            <Point id="560">
+                <coordinates>6.585712,53.0174,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="563">
+            <name>KARWEI</name>
+            <description>
+Last connected at: 2016-04-22 02:00:00
+Last seen at: 2023-06-09 15:00:00
+Connections count: 1</description>
+            <Point id="562">
+                <coordinates>6.579987,53.010312,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="565">
+            <name>Marsdijk19</name>
+            <description>
+Last connected at: 2017-08-02 00:04:20
+Last seen at: 2022-08-20 18:00:00
+Connections count: 2</description>
+            <Point id="564">
+                <coordinates>6.587063,53.017612,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="567">
+            <name>McDonald's free Wifi</name>
+            <description>
+Download speed: 40.70958
+Upload speed: 10.430999
+Ping time: 14.0
+Last connected at: 2023-05-30 18:24:29
+Last seen at: 2023-06-11 18:00:00
+Connections count: 1</description>
+            <Point id="566">
+                <coordinates>6.572506,53.026155,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="569">
+            <name>Drenthewifi</name>
+            <description>Password: Drenthe-2012
+Last connected at: 2022-06-16 17:09:39
+Last seen at: 2022-06-16 17:09:39
+Connections count: 85</description>
+            <Point id="568">
+                <coordinates>6.58243,53.006802,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="571">
+            <name>Jumbo-HotSpot</name>
+            <description>
+Download speed: 3.98738
+Upload speed: 0.597081
+Ping time: 20.0
+Last connected at: 2021-06-17 20:13:15
+Last seen at: 2023-06-05 13:00:00
+Connections count: 60</description>
+            <Point id="570">
+                <coordinates>6.585741,53.017372,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="573">
+            <name>jbnoord</name>
+            <description>
+Last connected at: 2016-04-21 02:00:00
+Last seen at: 2023-06-05 02:00:00
+Connections count: 1</description>
+            <Point id="572">
+                <coordinates>6.567776,53.010326,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="575">
+            <name>Bruna hotspot</name>
+            <description>
+Last connected at: 2018-07-21 08:42:20
+Last seen at: 2023-06-05 13:00:00
+Connections count: 11</description>
+            <Point id="574">
+                <coordinates>6.585713,53.017542,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="577">
+            <name>Drenthe Tours Extern</name>
+            <description>Password: Drenthe-Extern
+Last connected at: 2022-06-17 07:50:44
+Last seen at: 2023-02-21 16:00:00
+Connections count: 39</description>
+            <Point id="576">
+                <coordinates>6.58243,53.006802,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="579">
+            <name>Gasten</name>
+            <description>Password: Gastvrij
+Download speed: 7.289331
+Upload speed: 4.213185
+Ping time: 12.0
+Last connected at: 2023-04-12 15:58:15
+Last seen at: 2023-04-12 15:58:15
+Connections count: 4</description>
+            <Point id="578">
+                <coordinates>6.586526,53.010415,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="581">
+            <name>Pand 17 Gasten</name>
+            <description>
+Last connected at: 2023-05-13 02:00:00
+Last seen at: 2023-05-13 02:00:00
+Connections count: 5</description>
+            <Point id="580">
+                <coordinates>6.588292,53.010814,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="583">
+            <name>Normaal</name>
+            <description>Password: qrt1986vnkK
+Last connected at: 2014-04-16 02:00:00
+Last seen at: 2023-05-13 02:00:00
+Connections count: 1</description>
+            <Point id="582">
+                <coordinates>6.587972,53.01238,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="585">
+            <name>CenturyFreeInternet</name>
+            <description>
+Last connected at: 2018-04-14 15:19:21
+Last seen at: 2023-04-02 12:00:00
+Connections count: 1</description>
+            <Point id="584">
+                <coordinates>6.572543,53.00937,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="587">
+            <name>internet</name>
+            <description>Password: 1234567890
+Download speed: 88.78213
+Upload speed: 46.741337
+Ping time: 18.0
+Last connected at: 2023-03-29 02:00:00
+Last seen at: 2023-06-16 02:00:00
+Connections count: 7</description>
+            <Point id="586">
+                <coordinates>6.601683,53.163194,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="589">
+            <name>Guest</name>
+            <description>Password: !elker01
+Download speed: 34.4362
+Upload speed: 23.3728
+Ping time: 10.0
+Last connected at: 2017-12-04 16:39:29
+Last seen at: 2023-05-30 02:00:00
+Connections count: 208</description>
+            <Point id="588">
+                <coordinates>6.586163,53.202541,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="591">
+            <name>KPN</name>
+            <description>
+Last connected at: 2020-02-13 15:21:52
+Last seen at: 2023-06-14 16:00:00
+Connections count: 9</description>
+            <Point id="590">
+                <coordinates>6.568031,53.196286,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="593">
+            <name>De Papiermolen Hotspot</name>
+            <description>
+Last connected at: 2019-06-29 20:03:17
+Last seen at: 2023-06-03 16:00:00
+Connections count: 2</description>
+            <Point id="592">
+                <coordinates>6.569549,53.203593,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="595">
+            <name>Guest</name>
+            <description>Password: Welkom@TR!P
+Download speed: 10.408491
+Upload speed: 11.234199
+Ping time: 8.0
+Last connected at: 2022-12-19 14:53:56
+Last seen at: 2023-06-17 20:00:00
+Connections count: 7</description>
+            <Point id="594">
+                <coordinates>6.574299,53.204249,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="597">
+            <name>Persfotografie</name>
+            <description>
+Last connected at: 2016-04-22 02:00:00
+Last seen at: 2021-09-17 02:00:00
+Connections count: 1</description>
+            <Point id="596">
+                <coordinates>6.591061,53.20532,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="599">
+            <name>Mamamini Hotspot</name>
+            <description>
+Download speed: 9.91779
+Upload speed: 4.32566
+Ping time: 17.0
+Last connected at: 2022-04-12 02:00:00
+Last seen at: 2023-05-06 02:00:00
+Connections count: 65</description>
+            <Point id="598">
+                <coordinates>6.580093,53.200525,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="601">
+            <name>wlan200</name>
+            <description>
+Last connected at: 2013-11-19 01:00:00
+Last seen at: 2023-06-10 02:00:00
+Connections count: 1</description>
+            <Point id="600">
+                <coordinates>6.591261,53.205996,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="603">
+            <name>GSG WPA2</name>
+            <description>Password: Kaassouffle
+Last connected at: 2023-06-14 13:49:27
+Last seen at: 2023-06-17 20:00:00
+Connections count: 232
+Complain: wrong_password at 2020-01-29T09:22:05.000Z</description>
+            <Point id="602">
+                <coordinates>6.568321,53.20091,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="605">
+            <name>CenturyFreeInternet</name>
+            <description>
+Last connected at: 2015-11-23 01:00:00
+Last seen at: 2023-05-30 02:00:00
+Connections count: 1</description>
+            <Point id="604">
+                <coordinates>6.608202,53.203793,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="607">
+            <name>Cosis-open</name>
+            <description>Password: Wietzedijk 
+Download speed: 5.008757
+Upload speed: 2.7334023
+Ping time: 16.0
+Last connected at: 2023-06-13 02:00:00
+Last seen at: 2023-06-13 02:00:00
+Connections count: 458
+Complain: no_wifi at 2021-08-24T18:40:03.000Z</description>
+            <Point id="606">
+                <coordinates>6.58897,53.198402,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="609">
+            <name>Esmeralda17</name>
+            <description>Password: 1234577890ABC
+Download speed: 58.6729
+Upload speed: 19.5847
+Ping time: 15.0
+Last connected at: 2019-07-09 00:07:25
+Last seen at: 2022-10-03 02:00:00
+Connections count: 17</description>
+            <Point id="608">
+                <coordinates>6.584758,53.19559,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="611">
+            <name>O2G2</name>
+            <description>Password: z3rn1k3c0ll3g3wlan149
+Download speed: 3.51479
+Upload speed: 3.58702
+Ping time: 13.0
+Last connected at: 2022-05-30 13:25:09
+Last seen at: 2022-05-30 13:25:09
+Connections count: 13</description>
+            <Point id="610">
+                <coordinates>6.570862,53.19722,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="613">
+            <name>Harkema Brasserie</name>
+            <description>Password: welkom86
+Download speed: 0.036754
+Upload speed: 9.91555
+Ping time: 17.0
+Last connected at: 2022-08-27 02:00:00
+Last seen at: 2022-08-27 16:00:00
+Connections count: 3</description>
+            <Point id="612">
+                <coordinates>6.580555,53.197578,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="615">
+            <name>Router38</name>
+            <description>Password: draadloos
+Last connected at: 2018-01-13 14:05:17
+Last seen at: 2022-12-11 01:00:00
+Connections count: 3</description>
+            <Point id="614">
+                <coordinates>6.570606,53.198477,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="617">
+            <name>Gast Rest. Twee Provincien</name>
+            <description>Password: vuurtoren
+Last connected at: 2021-06-16 02:00:00
+Last seen at: 2022-10-02 14:00:00
+Connections count: 1</description>
+            <Point id="616">
+                <coordinates>6.566901,53.160049,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="619">
+            <name>MaarwoldLounge</name>
+            <description>Password: loung32012
+Last connected at: 2014-09-01 02:00:00
+Last seen at: 2022-03-16 01:00:00
+Connections count: 1</description>
+            <Point id="618">
+                <coordinates>6.596022,53.16879,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="621">
+            <name>Ziggo12590</name>
+            <description>Password: ueKnRN2763aY
+Download speed: 50.3197
+Upload speed: 16.4621
+Ping time: 13.0
+Last connected at: 2017-09-13 17:36:46
+Last seen at: 2022-03-06 01:00:00
+Connections count: 56</description>
+            <Point id="620">
+                <coordinates>6.60739,53.16357,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="623">
+            <name>Nescio</name>
+            <description>
+Download speed: 9.75358
+Upload speed: 12.5973
+Ping time: 23.0
+Last connected at: 2019-08-22 23:39:18
+Last seen at: 2023-03-10 01:00:00
+Connections count: 144</description>
+            <Point id="622">
+                <coordinates>6.594259,53.16755,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="625">
+            <name>O2G2 Gast</name>
+            <description>Password: Z3rn1k3c0ll3g3wlan149
+Last connected at: 2022-04-13 02:00:00
+Last seen at: 2022-08-26 02:00:00
+Connections count: 2</description>
+            <Point id="624">
+                <coordinates>6.604619,53.180442,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="627">
+            <name>Albert Heijn</name>
+            <description>
+Last connected at: 2023-03-04 01:00:00
+Last seen at: 2023-05-26 21:00:00
+Connections count: 210</description>
+            <Point id="626">
+                <coordinates>6.579232,53.197604,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="629">
+            <name>KPN</name>
+            <description>
+Download speed: 4.44974
+Upload speed: 1.17425
+Ping time: 17.0
+Last connected at: 2022-07-31 19:31:11
+Last seen at: 2023-05-26 21:00:00
+Connections count: 78</description>
+            <Point id="628">
+                <coordinates>6.57776,53.198285,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="631">
+            <name>limburgia</name>
+            <description>Password: chocolademelk
+Last connected at: 2018-06-13 14:59:24
+Last seen at: 2022-05-10 02:00:00
+Connections count: 23</description>
+            <Point id="630">
+                <coordinates>6.580416,53.19777,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="633">
+            <name>fcgroningen_internet</name>
+            <description>
+Last connected at: 2022-06-25 02:00:00
+Last seen at: 2022-06-25 02:00:00
+Connections count: 7</description>
+            <Point id="632">
+                <coordinates>6.591261,53.205996,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="635">
+            <name>WiFi in de trein</name>
+            <description>
+Last connected at: 2023-06-15 06:19:48
+Last seen at: 2023-06-15 06:19:48
+Connections count: 44</description>
+            <Point id="634">
+                <coordinates>6.609038,53.17865,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="637">
+            <name>Goed-Poetsen</name>
+            <description>Password: mooielach
+Last connected at: 2021-10-29 10:13:57
+Last seen at: 2021-10-29 10:13:57
+Connections count: 11</description>
+            <Point id="636">
+                <coordinates>6.607033,53.1744,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="639">
+            <name>UMCG-Guest</name>
+            <description>
+Last connected at: 2022-11-26 01:00:00
+Last seen at: 2022-11-26 01:00:00
+Connections count: 978</description>
+            <Point id="638">
+                <coordinates>6.606758,53.179125,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="641">
+            <name>Be Quick 1887</name>
+            <description>
+Last connected at: 2022-11-05 01:00:00
+Last seen at: 2022-11-05 01:00:00
+Connections count: 12</description>
+            <Point id="640">
+                <coordinates>6.590031,53.185848,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="643">
+            <name>Best Western</name>
+            <description>
+Download speed: 13.023787
+Upload speed: 20.711264
+Ping time: 13.0
+Last connected at: 2023-04-30 10:26:33
+Last seen at: 2023-04-30 10:26:33
+Connections count: 134</description>
+            <Point id="642">
+                <coordinates>6.564556,53.187291,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="645">
+            <name>Bistro Heerlijk</name>
+            <description>Password: Heerlijk
+Download speed: 11.5421
+Upload speed: 8.68287
+Ping time: 37.0
+Last connected at: 2018-03-23 15:00:24
+Last seen at: 2022-07-12 02:00:00
+Connections count: 3</description>
+            <Point id="644">
+                <coordinates>6.603857,53.172325,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="647">
+            <name>Mesh</name>
+            <description>Password: eline@1980
+Last connected at: 2022-02-23 01:00:00
+Last seen at: 2022-02-23 01:00:00
+Connections count: 4
+Complain: wrong_password at 2021-12-21T14:22:10.000Z</description>
+            <Point id="646">
+                <coordinates>6.608072,53.181137,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="649">
+            <name>Bezoekers Hortus</name>
+            <description>
+Last connected at: 2017-09-15 18:21:16
+Last seen at: 2022-07-12 02:00:00
+Connections count: 6</description>
+            <Point id="648">
+                <coordinates>6.6038,53.180011,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="651">
+            <name>KPN</name>
+            <description>
+Last connected at: 2021-08-14 10:10:43
+Last seen at: 2023-04-20 02:00:00
+Connections count: 74</description>
+            <Point id="650">
+                <coordinates>6.563762,53.16207,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>
