@@ -12,3 +12,4 @@ Here is table of the maps:
 | [Amsterdam](https://osm.quelltextlich.at/viewer-js.html?kml_url=https://raw.githubusercontent.com/nekotov/LibriFI/main/maps/kml/Amsterdam.kml) |   [here](https://raw.githubusercontent.com/nekotov/LibriFI/main/maps/kml/Amsterdam.kml)   |
 | [Rotterdam](https://osm.quelltextlich.at/viewer-js.html?kml_url=https://raw.githubusercontent.com/nekotov/LibriFI/main/maps/kml/Rotterdam.kml)   | [here](https://raw.githubusercontent.com/nekotov/LibriFI/main/maps/kml/Rotterdam.kml) |
 | [Groningen](https://osm.quelltextlich.at/viewer-js.html?kml_url=https://raw.githubusercontent.com/nekotov/LibriFI/main/maps/kml/Groningen.kml) |   [here](https://raw.githubusercontent.com/nekotov/LibriFI/main/maps/kml/Groningen.kml)   |
+| [Kiev](https://osm.quelltextlich.at/viewer-js.html?kml_url=https://raw.githubusercontent.com/nekotov/LibriFI/main/maps/kml/Kiev.kml) |   [here](https://raw.githubusercontent.com/nekotov/LibriFI/main/maps/kml/Kiev.kml)   |
